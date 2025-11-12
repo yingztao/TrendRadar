@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:31:08.771321+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2025-11-12T18:29:40.472467+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -90,8 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 18时29分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -255,6 +255,18 @@
           "time_info": "[01时23分 ~ 02时36分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普发2000美元关税红包但预算说不",
           "url": "https://www.toutiao.com/trending/7571453780693093930/",
           "source": "今日头条",
@@ -277,17 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -405,6 +406,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112175252982800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
           "url": "https://flash.jin10.com/detail/20251112012840941800",
           "source": "金十数据",
@@ -513,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "特朗普称没有稀土磁铁就什么都没有",
+          "url": "https://www.toutiao.com/trending/7571130765851443254/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普宣布：赦免75名支持者",
@@ -708,6 +731,18 @@
           "time_info": "[05时23分 ~ 06时25分]"
         },
         {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时29分]"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251112050514200800",
           "source": "金十数据",
@@ -756,17 +791,6 @@
           "time_info": "[06时25分 ~ 07时23分]"
         },
         {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251112013235058800",
           "source": "金十数据",
@@ -803,7 +827,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -829,6 +853,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时23分]"
+        },
+        {
+          "title": "谷歌：支持美国国会通过的关键两党法案，以保护民众免受网络钓鱼侵害。",
+          "url": "https://flash.jin10.com/detail/20251112180704966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "谷歌宣布未来四年在德国投资55亿欧元",
@@ -934,7 +969,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
@@ -958,6 +993,19 @@
           "time_info": "[14时38分 ~ 16时35分]"
         },
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 18时29分]"
+        },
+        {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
@@ -971,18 +1019,6 @@
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 17时31分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
           "url": "https://www.toutiao.com/trending/7571465266493702187/",
           "source": "今日头条",
           "ranks": [
@@ -990,8 +1026,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时29分]"
         }
       ]
     },
@@ -1089,8 +1125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时23分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[07时23分 ~ 18时29分]"
         }
       ]
     }
