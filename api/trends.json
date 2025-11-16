@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:46:18.457373+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-11-16T21:28:48.205973+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -107,6 +107,18 @@
           "time_info": "[13时24分 ~ 17时24分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
           "url": "https://wallstreetcn.com/livenews/3005241",
           "source": "华尔街见闻-快讯",
@@ -136,16 +148,15 @@
           "time_info": "[13时24分 ~ 16时30分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时46分]"
+          "time_info": "[17时24分 ~ 21时28分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -159,17 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时03分 ~ 12时31分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时46分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -189,11 +189,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时28分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -288,11 +289,12 @@
           "url": "https://wallstreetcn.com/livenews/3005334",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时28分]"
         },
         {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
@@ -300,11 +302,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时28分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -321,6 +324,32 @@
           "time_info": "[10时04分 ~ 13时24分]"
         },
         {
+          "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
+          "url": "https://flash.jin10.com/detail/20251116183145693800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时28分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
+          "url": "https://flash.jin10.com/detail/20251116183102013800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时28分]"
+        },
+        {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
           "url": "https://wallstreetcn.com/livenews/3005270",
           "source": "华尔街见闻-快讯",
@@ -332,30 +361,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时30分 ~ 18时24分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
-          "url": "https://flash.jin10.com/detail/20251116183145693800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
-          "url": "https://flash.jin10.com/detail/20251116183102013800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -401,8 +406,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 20时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 21时28分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -472,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 21时28分]"
         }
       ]
     },
