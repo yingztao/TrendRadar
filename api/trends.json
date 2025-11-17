@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T21:36:44.109363+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2025-11-17T22:27:15.824855+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -22,8 +22,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时59分 ~ 21时36分]"
+          "appearance_count": 18,
+          "time_info": "[09时59分 ~ 22时27分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -57,8 +57,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时27分]"
+        },
+        {
+          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
+          "url": "https://wallstreetcn.com/articles/3759513",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时36分]"
+          "time_info": "[18时30分 ~ 22时27分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -116,9 +129,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将在“麦当劳影响力峰会上”发表讲话，时间为当地时间晚上6点（北京时间次日早上7点），特朗普或强调进一步降低食品价格的理念。",
+          "url": "https://flash.jin10.com/detail/20251117221426726800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "美国总统特朗普的助手们正在考虑“允许马杜罗离开委内瑞拉”。",
@@ -130,19 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
-        },
-        {
-          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
-          "url": "https://wallstreetcn.com/articles/3759513",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时30分 ~ 21时36分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -204,6 +215,18 @@
           "time_info": "[09时59分 ~ 11时23分]"
         },
         {
+          "title": "BBC回应特朗普巨额索赔诉讼：毫无依据 将坚决应诉",
+          "url": "https://wallstreetcn.com/livenews/3005903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时27分]"
+        },
+        {
           "title": "美国总统特朗普考虑与沙特签署双边安全协议。",
           "url": "https://flash.jin10.com/detail/20251117190158344800",
           "source": "金十数据",
@@ -246,17 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "BBC回应特朗普巨额索赔诉讼：毫无依据 将坚决应诉",
-          "url": "https://wallstreetcn.com/livenews/3005903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "特朗普与得力干将反目成仇",
@@ -328,7 +340,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -388,6 +400,18 @@
           "time_info": "[18时30分 ~ 19时23分]"
         },
         {
+          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3005902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时27分]"
+        },
+        {
           "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3005756",
           "source": "华尔街见闻-快讯",
@@ -411,6 +435,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3005923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
           "url": "https://wallstreetcn.com/livenews/3005519",
           "source": "华尔街见闻-快讯",
@@ -422,24 +457,13 @@
           "time_info": "11时23分"
         },
         {
-          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3005902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
           "url": "https://flash.jin10.com/detail/20251117210242767800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -483,7 +507,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         }
@@ -491,7 +515,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -521,8 +545,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时32分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[12时32分 ~ 22时27分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -537,6 +561,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时33分 ~ 09时59分]"
+        },
+        {
+          "title": "谷歌与Meta推迟红海（铺设海底）光缆项目，当前当地存在（与以色列相关的）安全风险。",
+          "url": "https://wallstreetcn.com/livenews/3005929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "加密货币交易平台Gemini：欧盟客户现可享受无Gemini手续费的代币化股票交易。",
@@ -587,7 +622,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -600,6 +635,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时31分 ~ 21时36分]"
+        },
+        {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -695,11 +741,12 @@
           "url": "https://wallstreetcn.com/livenews/3005908",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时27分]"
         },
         {
           "title": "伊朗启动人工增雨应对严重干旱",
