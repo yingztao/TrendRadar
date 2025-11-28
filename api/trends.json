@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T14:40:02.912145+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-11-28T15:25:58.228644+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,37 @@
             5,
             12,
             15,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时25分]"
+        },
+        {
+          "title": "中方回应特朗普要求高市降低声调",
+          "url": "https://www.douyin.com/hot/2319515",
+          "source": "抖音",
+          "ranks": [
+            6,
+            10,
+            17,
+            20
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时56分 ~ 14时40分]"
+          "time_info": "[09时56分 ~ 15时25分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -74,31 +100,6 @@
           "time_info": "[09时56分 ~ 14时40分]"
         },
         {
-          "title": "特朗普称将暂停“第三世界国家”移民",
-          "url": "https://www.toutiao.com/trending/7577245940038258219/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
-          "title": "中方回应特朗普要求高市降低声调",
-          "url": "https://www.douyin.com/hot/2319515",
-          "source": "抖音",
-          "ranks": [
-            6,
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 14时40分]"
-        },
-        {
           "title": "特朗普称将对委内瑞拉展开地面行动",
           "url": "https://www.toutiao.com/trending/7577565560364338698/",
           "source": "今日头条",
@@ -110,6 +111,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时25分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -185,17 +198,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
           "title": "特朗普：将永久停止所有“第三世界”国家的移民",
           "url": "https://wallstreetcn.com/livenews/3011877",
           "source": "华尔街见闻-快讯",
@@ -237,7 +239,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -270,7 +272,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -321,23 +323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 14时40分]"
-        },
-        {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            21,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -348,8 +335,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 15时25分]"
+        },
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            21,
+            28,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -361,8 +364,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时25分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -374,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -401,7 +404,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -441,6 +444,18 @@
           "time_info": "[13时27分 ~ 14时40分]"
         },
         {
+          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3011904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时25分]"
+        },
+        {
           "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
           "url": "https://flash.jin10.com/detail/20251128095923576800",
           "source": "金十数据",
@@ -452,15 +467,26 @@
           "time_info": "11时17分"
         },
         {
-          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3011904",
-          "source": "华尔街见闻-快讯",
+          "title": "野村证券：将利用OpenAI的战略和技术支持开发新服务。",
+          "url": "https://flash.jin10.com/detail/20251128145150536800",
+          "source": "金十数据",
           "ranks": [
-            14
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "15时25分"
+        },
+        {
+          "title": "野村证券：启动与OpenAI的战略合作。",
+          "url": "https://flash.jin10.com/detail/20251128144813905800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -610,6 +636,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金午盘价为948.34元/克，较国际金价(952.27元/克)，低3.93元/克",
+          "url": "https://flash.jin10.com/detail/20251128150250068800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251128105205543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -622,8 +676,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 15时25分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -635,23 +689,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251128105205543800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
         }
       ]
     }
