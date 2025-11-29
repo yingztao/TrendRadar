@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T17:25:52.295658+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-11-29T18:25:59.601669+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -128,6 +128,17 @@
           "time_info": "[03时21分 ~ 07时23分]"
         },
         {
+          "title": "特朗普长子成2028总统大选热门人选",
+          "url": "https://www.toutiao.com/trending/7577333810975621166/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "特朗普称将暂停“第三世界国家”移民",
           "url": "https://www.toutiao.com/trending/7577245940038258219/",
           "source": "今日头条",
@@ -156,6 +167,17 @@
           "time_info": "[09时55分 ~ 14时36分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-29）",
+          "url": "https://flash.jin10.com/detail/20251129175639922800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
           "url": "https://flash.jin10.com/detail/20251129032541398800",
           "source": "金十数据",
@@ -167,6 +189,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 09时55分]"
+        },
+        {
+          "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
+          "url": "https://flash.jin10.com/detail/20251129173734317800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -239,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
+          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普“和平新计划”为何会再次落空",
@@ -316,8 +360,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 18时25分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -574,8 +618,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时55分 ~ 18时25分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -584,11 +628,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时25分]"
         }
       ]
     },
@@ -606,8 +651,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时25分]"
         },
         {
           "title": "金价",
