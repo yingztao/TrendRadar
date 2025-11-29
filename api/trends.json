@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:32:46.911893+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2025-11-29T17:25:52.295658+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -316,8 +316,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 17时25分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -574,8 +574,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 17时25分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -583,11 +583,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 17时25分]"
         }
       ]
     },
@@ -605,8 +606,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 17时25分]"
         },
         {
           "title": "金价",
