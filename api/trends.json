@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:31:01.463852+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-11-30T17:24:42.859092+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
           "url": "https://flash.jin10.com/detail/20251129220829620800",
           "source": "金十数据",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时10分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -246,8 +246,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 16时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 17时24分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -269,6 +269,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
+          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 17时24分]"
+        },
+        {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
           "url": "https://flash.jin10.com/detail/20251129231934613800",
           "source": "金十数据",
@@ -281,17 +292,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 12时41分]"
-        },
-        {
-          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
-          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 16时31分]"
         }
       ]
     },
@@ -304,11 +304,12 @@
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时24分]"
         }
       ]
     },
