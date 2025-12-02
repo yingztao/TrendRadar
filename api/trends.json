@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T16:38:34.084396+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-12-02T17:33:31.767188+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -31,6 +31,23 @@
           "time_info": "[10时00分 ~ 16时38分]"
         },
         {
+          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17,
+            13,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 17时33分]"
+        },
+        {
           "title": "特朗普对马杜罗下最后通牒",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
           "source": "百度热搜",
@@ -45,22 +62,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 07时25分]"
-        },
-        {
-          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 16时38分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -407,9 +408,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "特朗普体检结果公布",
+          "url": "https://www.toutiao.com/trending/7579125829599235625/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "美国同意对原产于英国的药品等豁免232条款关税，并在特朗普总统任期内不启动“301调查”",
@@ -426,7 +438,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -574,6 +586,39 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "Credo Technology美股盘前涨15.6%，因第二季度利润和营收均超预期。",
+          "url": "https://flash.jin10.com/detail/20251202171040668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "小鹏汽车(XPEV.N)美股盘前跌4%，阿里巴巴(BABA.N)跌1.4%，哔哩哔哩(BILI.O)跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251202170323090800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "美股市场全线杀跌发生了什么",
           "url": "https://www.toutiao.com/trending/7579051553873481270/",
           "source": "今日头条",
@@ -635,11 +680,12 @@
           "ranks": [
             17,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 17时33分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -739,8 +785,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时00分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 17时33分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -755,8 +801,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 16时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 17时33分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -769,8 +815,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 16时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 17时33分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -780,11 +826,12 @@
             6,
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时00分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 17时33分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -839,8 +886,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 17时33分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
