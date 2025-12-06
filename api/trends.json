@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T16:32:37.520141+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-12-06T17:25:17.069430+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -35,6 +35,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时24分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时25分]"
         },
         {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
@@ -102,18 +114,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时25分 ~ 16时32分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时32分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -476,6 +476,17 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "哈塞特：美联储是时候谨慎降息了，未与特朗普讨论过主席相关话题",
           "url": "https://wallstreetcn.com/articles/3760815",
           "source": "华尔街见闻",
@@ -534,8 +545,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 17时25分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -544,11 +555,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -562,8 +574,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 17时25分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -721,19 +733,8 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
-          "url": "https://flash.jin10.com/detail/20251206034533252800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 07时24分]"
-        },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
@@ -745,8 +746,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时25分]"
+        },
+        {
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时30分 ~ 07时24分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -784,6 +796,17 @@
           "time_info": "[07时24分 ~ 09时55分]"
         },
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
           "url": "https://wallstreetcn.com/livenews/3016148",
           "source": "华尔街见闻-快讯",
@@ -806,11 +829,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 17时25分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
