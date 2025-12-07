@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T15:24:39.600976+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2025-12-07T16:31:49.962034+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,12 @@
             1,
             4,
             9,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 16时31分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -90,11 +91,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时31分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -103,7 +105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -236,11 +238,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 16时31分]"
         }
       ]
     },
