@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:28:28.915027+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2025-12-10T14:41:47.337163+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 13时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 14时41分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -73,6 +73,17 @@
           "time_info": "[01时26分 ~ 07时31分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 14时41分]"
+        },
+        {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
           "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
           "source": "凤凰网",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时35分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时28分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -168,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
@@ -264,6 +275,19 @@
           "time_info": "[06时26分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 14时41分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -312,6 +336,18 @@
           "time_info": "[06时26分 ~ 07时31分]"
         },
         {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时41分]"
+        },
+        {
           "title": "特朗普放话：降息将是新任美联储主席的试金石",
           "url": "https://www.cls.cn/detail/2224581",
           "source": "财联社热门",
@@ -323,16 +359,16 @@
           "time_info": "[06时25分 ~ 06时26分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
           "ranks": [
             21,
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时28分]"
+          "time_info": "[13时28分 ~ 14时41分]"
         },
         {
           "title": "特朗普：给美国经济表现打“A+++++”",
@@ -401,6 +437,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "特朗普厕所门口受访被人推门撞到",
+          "url": "https://www.toutiao.com/trending/7582097221663936046/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
           "url": "https://flash.jin10.com/detail/20251210111006441800",
           "source": "金十数据",
@@ -456,17 +503,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "邵永灵：特朗普正用国家权力变现",
-          "url": "https://www.toutiao.com/trending/7582064656005467699/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20251210041816454800",
           "source": "金十数据",
@@ -498,17 +534,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "据英国金融时报：美国总统特朗普给予泽连斯基“几日时间”回应和平提议。",
@@ -594,8 +619,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 14时41分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -849,8 +874,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 14时41分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -922,8 +947,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 14时41分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
