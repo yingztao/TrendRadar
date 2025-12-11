@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T14:42:44.482056+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-12-11T15:31:12.180785+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -20,6 +20,18 @@
           "time_info": "[04时32分 ~ 10时05分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 15时31分]"
+        },
+        {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
           "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
           "source": "凤凰网",
@@ -31,16 +43,17 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 15时31分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -96,19 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -216,6 +216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时29分]"
+        },
+        {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "关税重压下 美共和党议员为农业设备向特朗普求助",
@@ -554,6 +565,30 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 15时31分]"
+        },
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 15时31分]"
+        },
+        {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2225788",
           "source": "财联社热门",
@@ -564,29 +599,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时28分 ~ 07时24分]"
-        },
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 14时42分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时42分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -892,6 +904,69 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3018598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时29分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金午盘价为952.81元/克，较国际金价(956.07元/克)，低3.26元/克",
+          "url": "https://flash.jin10.com/detail/20251211150430758800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "高盛预计4,900美元的金价预期有上调空间 ETF资金流入将是推动力",
+          "url": "https://wallstreetcn.com/livenews/3019003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
+          "url": "https://flash.jin10.com/detail/20251211011833674800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -989,47 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3018598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时29分]"
-        },
-        {
-          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
-          "url": "https://flash.jin10.com/detail/20251211011833674800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
         }
       ]
     },
