@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T13:29:13.678363+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-12-12T14:41:48.183354+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -41,19 +41,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时41分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 14时41分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 14时41分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 14时41分]"
         },
         {
           "title": "特朗普政府在加州边境建立新的军事化区域",
@@ -185,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时29分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -388,6 +389,17 @@
           "time_info": "[11时59分 ~ 12时40分]"
         },
         {
+          "title": "白宫：特朗普跟中日都能搞好关系",
+          "url": "https://www.toutiao.com/trending/7582430336525828123/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
           "url": "https://flash.jin10.com/detail/20251212032152670800",
           "source": "金十数据",
@@ -405,7 +417,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -498,6 +510,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
+          "url": "https://flash.jin10.com/detail/20251212132635026800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普已了解乌克兰的最新提议。",
           "url": "https://flash.jin10.com/detail/20251212023406084800",
           "source": "金十数据",
@@ -557,8 +580,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 14时41分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -581,8 +604,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 14时41分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -592,8 +615,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时41分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -835,8 +858,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 13时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1047,8 +1070,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 14时41分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1295,8 +1318,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "伊朗外交部谴责美国违背联合国东道国义务",
+          "url": "https://flash.jin10.com/detail/20251212141346689800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
         {
           "title": "消息人士：美国正准备扣押更多运输委内瑞拉石油的船只，美国的行动将针对可能运输过其他受制裁原油（如伊朗原油）的油轮。",
           "url": "https://flash.jin10.com/detail/20251212023459470800",
