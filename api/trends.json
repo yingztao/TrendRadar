@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:56:09.625068+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2025-12-12T21:40:12.227021+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时28分 ~ 20时56分]"
+          "appearance_count": 13,
+          "time_info": "[13时28分 ~ 21时40分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -67,18 +67,6 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 15时28分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
@@ -88,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 20时56分]"
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 21时40分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -100,8 +88,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 20时56分]"
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 21时40分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时28分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -706,8 +706,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 20时56分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 21时40分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1187,8 +1187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时04分 ~ 20时56分]"
+          "appearance_count": 17,
+          "time_info": "[10时04分 ~ 21时40分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -1211,6 +1211,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 21时40分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -1236,18 +1248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时56分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -1508,8 +1508,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
+          "url": "https://flash.jin10.com/detail/20251212212056056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
         {
           "title": "PIMCO：未来一年黄金价格或涨10%",
           "url": "https://www.toutiao.com/trending/7582808002890042922/",
