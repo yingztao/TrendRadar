@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T16:37:46.704824+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2025-12-12T17:31:30.033900+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -21,6 +21,19 @@
           "time_info": "[00时39分 ~ 11时59分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时31分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -34,19 +47,6 @@
           "time_info": "[00时39分 ~ 07时26分]"
         },
         {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时37分]"
-        },
-        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
@@ -54,11 +54,12 @@
             3,
             5,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 17时31分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -237,6 +238,18 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普：只有泽连斯基不喜欢和平计划",
           "url": "https://news.ifeng.com/c/8p1VFhun2fI",
           "source": "凤凰网",
@@ -259,6 +272,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时29分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时31分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -417,28 +442,6 @@
           "time_info": "[11时59分 ~ 12时40分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "白宫：特朗普跟中日都能搞好关系",
           "url": "https://www.toutiao.com/trending/7582430336525828123/",
           "source": "今日头条",
@@ -481,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -621,7 +635,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -645,6 +659,17 @@
           "time_info": "[10时04分 ~ 14时41分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时31分]"
+        },
+        {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
           "url": "https://www.cls.cn/detail/2227268",
           "source": "财联社热门",
@@ -656,17 +681,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时59分 ~ 15时28分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 16时37分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1119,7 +1133,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1132,8 +1146,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时04分 ~ 17时31分]"
+        },
+        {
+          "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
+          "url": "https://flash.jin10.com/detail/20251212171210450800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
