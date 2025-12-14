@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:51:10.974347+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-12-14T21:32:05.653325+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -110,6 +110,17 @@
           "time_info": "[10时11分 ~ 16时33分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时32分]"
+        },
+        {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
           "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
@@ -157,17 +168,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 10时11分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -263,6 +263,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
@@ -522,6 +533,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -536,8 +564,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时26分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[13时26分 ~ 21时32分]"
         }
       ]
     }
