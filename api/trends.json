@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T19:22:07.305249+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-12-14T20:51:10.974347+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 10时11分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -328,7 +339,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -525,8 +536,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时26分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[13时26分 ~ 20时51分]"
         }
       ]
     }
