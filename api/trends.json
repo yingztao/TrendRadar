@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:29:34.244886+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2025-12-16T16:38:53.555559+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "[10时05分 ~ 15时29分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 16时38分]"
+        },
+        {
           "title": "日媒爆特朗普警告高市早苗别添乱",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -59,19 +72,6 @@
           "time_info": "[00时13分 ~ 07时26分]"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 15时29分]"
-        },
-        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
@@ -83,6 +83,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时05分 ~ 15时29分]"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 16时38分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -99,19 +112,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 05时27分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 15时29分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -814,7 +814,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
