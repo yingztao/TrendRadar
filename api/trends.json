@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:25:46.021523+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-23T20:57:06.483634+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 20时57分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时02分 ~ 20时57分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -53,19 +67,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 19时25分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -221,6 +222,20 @@
           "time_info": "06时27分"
         },
         {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时57分]"
+        },
+        {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
           "url": "https://flash.jin10.com/detail/20251223020338765800",
           "source": "金十数据",
@@ -346,6 +361,17 @@
           "time_info": "[01时24分 ~ 02时39分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时57分]"
+        },
+        {
           "title": "美国民主党主导的各州提起诉讼，以阻止特朗普政府削减消费者金融保护局的经费。",
           "url": "https://flash.jin10.com/detail/20251223045540973800",
           "source": "金十数据",
@@ -386,19 +412,6 @@
           "time_info": "[13时31分 ~ 16时37分]"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时25分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
           "url": "https://flash.jin10.com/detail/20251223015326106800",
           "source": "金十数据",
@@ -410,17 +423,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时30分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -498,7 +500,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -523,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美国司法部：部分已发布的文件包含针对特朗普的不实指控，这些指控是在2020年大选前夕提交给美国联邦调查局（FBI）的。",
+          "url": "https://flash.jin10.com/detail/20251223203437979800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
@@ -567,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美国司法部：爱泼斯坦文件包含一些针对美国总统特朗普的不实指控。",
+          "url": "https://flash.jin10.com/detail/20251223203329517800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国总统特朗普：本周将与医疗保险公司会面。",
@@ -652,7 +676,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -740,7 +764,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1130,11 +1154,24 @@
           "url": "https://www.cls.cn/detail/2237629",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时57分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时57分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1168,17 +1205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "金价银价同日创新高",
@@ -1386,8 +1412,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时24分 ~ 19时25分]"
+          "appearance_count": 20,
+          "time_info": "[01时24分 ~ 20时57分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
