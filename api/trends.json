@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-25T20:54:20.300307+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2025-12-25T21:37:01.275403+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 17,
       "titles": [
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 21时37分]"
+        },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
           "url": "https://news.ifeng.com/c/8pLddKy6eAN",
@@ -19,16 +31,16 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 21时37分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 13时31分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时54分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -102,17 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时38分 ~ 05时24分]"
-        },
-        {
-          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20251225202508685800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -179,6 +168,18 @@
           "time_info": "[01时23分 ~ 03时21分]"
         },
         {
+          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20251225202508685800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
           "url": "https://flash.jin10.com/detail/20251225173408748800",
           "source": "金十数据",
@@ -229,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 20时54分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 21时37分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -405,6 +406,18 @@
           "time_info": "15时28分"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时37分]"
+        },
+        {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
@@ -416,18 +429,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时05分 ~ 13时31分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时54分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -568,11 +569,12 @@
           "url": "https://wallstreetcn.com/articles/3762036",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 21时37分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
