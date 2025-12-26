@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:29:27.544312+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-12-26T14:41:13.706613+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 14时41分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时41分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -110,17 +121,6 @@
           "time_info": "[02时37分 ~ 06时26分]"
         },
         {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时29分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -135,6 +135,18 @@
           "time_info": "[01时24分 ~ 04时30分]"
         },
         {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时41分]"
+        },
+        {
           "title": "专家：特朗普或在2026“压榨”美联储",
           "url": "https://www.toutiao.com/trending/7587727738132270635/",
           "source": "今日头条",
@@ -144,17 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
-          "url": "https://flash.jin10.com/detail/20251226130524809800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -171,7 +172,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -199,8 +200,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 14时41分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -240,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时43分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         }
       ]
     },
@@ -346,8 +358,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 14时41分]"
         }
       ]
     },
