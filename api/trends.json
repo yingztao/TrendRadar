@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:22:35.942505+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-28T20:52:52.397230+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时31分 ~ 20时52分]"
         },
         {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
@@ -84,19 +97,6 @@
           "time_info": "[16时34分 ~ 19时22分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 19时22分]"
-        },
-        {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
           "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
           "source": "凤凰网",
@@ -105,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时52分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -211,7 +211,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -264,8 +264,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 20时52分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -359,6 +359,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 20时52分]"
+        },
+        {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
@@ -369,18 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 12时11分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 19时22分]"
         }
       ]
     },
