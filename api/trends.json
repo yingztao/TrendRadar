@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:29:18.661011+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-01T16:37:19.699076+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -261,8 +261,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 15时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 16时37分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -407,8 +407,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 15时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 16时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
