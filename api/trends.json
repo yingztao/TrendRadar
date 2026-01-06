@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:33:32.637086+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-06T18:31:44.485081+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时31分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -84,6 +97,23 @@
           "time_info": "[00时35分 ~ 07时27分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            10,
+            16,
+            29,
+            18,
+            19,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -93,11 +123,12 @@
             12,
             16,
             23,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 18时31分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -120,35 +151,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 17时33分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            10,
-            16,
-            29,
-            18,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 17时33分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -188,6 +190,19 @@
           "time_info": "[10时07分 ~ 12时05分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普对印度买俄石油发出最后通牒",
           "url": "https://www.toutiao.com/trending/7591650384435888171/",
           "source": "今日头条",
@@ -208,6 +223,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            15,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 18时31分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -276,18 +306,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时33分]"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.cls.cn/detail/2248692",
           "source": "财联社热门",
@@ -300,20 +318,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时31分 ~ 17时33分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 17时33分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -483,6 +487,17 @@
           "time_info": "[10时07分 ~ 10时08分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
           "url": "https://flash.jin10.com/detail/20260106070009215800",
           "source": "金十数据",
@@ -626,6 +641,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国众议院共和党人今日将与特朗普会面，举行年度聚会并就中期选举事宜进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260106180656428800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
           "url": "https://flash.jin10.com/detail/20260105235811612800",
           "source": "金十数据",
@@ -646,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-06）",
+          "url": "https://flash.jin10.com/detail/20260106175900949800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -673,8 +710,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 18时31分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -822,7 +859,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -832,11 +869,12 @@
             5,
             4,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 18时31分]"
         },
         {
           "title": "“无意开战” 内塔尼亚胡据悉通过普京向伊朗传递信息",
@@ -886,6 +924,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "伊朗称随时准备对侵略或敌对行为作出果断回应",
+          "url": "https://wallstreetcn.com/livenews/3031601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "市场消息：伊朗外交部长预计将于本月访问印度。",
           "url": "https://flash.jin10.com/detail/20260106135009971800",
           "source": "金十数据",
@@ -908,6 +957,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "伊朗称随时准备对侵略或敌对行为作出果断回应",
+          "url": "https://flash.jin10.com/detail/20260106180344128800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
           "url": "https://flash.jin10.com/detail/20260105234925159800",
           "source": "金十数据",
@@ -925,7 +985,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -964,11 +1024,12 @@
           "ranks": [
             13,
             11,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 18时31分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -1049,11 +1110,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时31分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
