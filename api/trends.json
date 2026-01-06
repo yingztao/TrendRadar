@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T20:57:33.799142+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-01-06T21:43:38.946197+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -125,11 +125,12 @@
             23,
             27,
             17,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 20时57分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 21时43分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -154,6 +155,36 @@
           "time_info": "[00时35分 ~ 07时27分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 21时43分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            15,
+            19,
+            17,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时04分 ~ 21时43分]"
+        },
+        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -167,35 +198,6 @@
           "time_info": "[01时28分 ~ 07时27分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 20时57分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            15,
-            19,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 20时57分]"
-        },
-        {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
           "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
           "source": "凤凰网",
@@ -206,6 +208,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时04分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
+          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时43分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -270,18 +283,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "特朗普说马斯克八成是超级天才",
-          "url": "https://wallstreetcn.com/livenews/3031682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -292,7 +294,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -308,15 +310,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
-          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
-          "source": "凤凰网",
+          "title": "美国总统特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3031704",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "21时43分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -339,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)和核聚变初创公司TAE已启动开创性聚变电站的选址规划工作，未来电站的装机容量预计将达到350至500兆瓦。",
+          "url": "https://flash.jin10.com/detail/20260106213311575800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "特朗普称，委内瑞拉代总统罗德里格斯在配合美国，卢比奥和罗德里格斯关系“牢固”。（NBC）",
@@ -391,6 +404,31 @@
           "time_info": "[00时35分 ~ 01时28分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时43分]"
+        },
+        {
+          "title": "特朗普说马斯克八成是超级天才",
+          "url": "https://wallstreetcn.com/livenews/3031682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时43分]"
+        },
+        {
           "title": "乌克兰外交部长：此类袭击表明俄罗斯总统普京完全无视由美国总统特朗普主导的和平努力。",
           "url": "https://flash.jin10.com/detail/20260106021438268800",
           "source": "金十数据",
@@ -437,18 +475,6 @@
           "time_info": "[00时35分 ~ 02时42分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时57分]"
-        },
-        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -485,6 +511,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时39分 ~ 17时33分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时43分]"
         },
         {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
@@ -543,17 +581,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
@@ -644,6 +671,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "美国总统特朗普：对加利福尼亚州的欺诈调查已开始。",
+          "url": "https://flash.jin10.com/detail/20260106212254555800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3031110",
           "source": "华尔街见闻-快讯",
@@ -688,13 +726,24 @@
           "time_info": "10时08分"
         },
         {
+          "title": "特朗普称西半球是我们的半球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "特朗普为何急于控制格陵兰岛",
           "url": "https://www.toutiao.com/trending/7592162290036641307/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -716,7 +765,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -741,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3031688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -785,6 +845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普称赞股市上涨",
+          "url": "https://flash.jin10.com/detail/20260106211548097800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
@@ -802,11 +873,12 @@
             6,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 21时43分]"
         },
         {
           "title": "“无意开战” 内塔尼亚胡据悉通过普京向伊朗传递信息",
@@ -907,7 +979,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -970,8 +1042,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时27分 ~ 20时57分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 21时43分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -1216,6 +1288,69 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
+          "url": "https://wallstreetcn.com/livenews/3031120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3031089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
+          "url": "https://wallstreetcn.com/livenews/3031699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
+          "url": "https://flash.jin10.com/detail/20260106144320434800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1231,8 +1366,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[10时07分 ~ 21时43分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1268,58 +1403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
-          "url": "https://wallstreetcn.com/livenews/3031120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3031089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
-        },
-        {
-          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
-          "url": "https://flash.jin10.com/detail/20260106144320434800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
-          "url": "https://flash.jin10.com/detail/20260106185806265800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
