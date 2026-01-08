@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T01:32:46.660380+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-09T02:37:54.385649+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
@@ -30,17 +30,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "美参院推进限制特朗普对委动武决议",
-          "url": "https://wallstreetcn.com/livenews/3033478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在下个月就房利美和房地美的IPO作出决定。",
           "url": "https://flash.jin10.com/detail/20260109003127574800",
           "source": "金十数据",
@@ -50,6 +39,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
+        },
+        {
+          "title": "美参院推进限制特朗普对委动武决议",
+          "url": "https://wallstreetcn.com/livenews/3033478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时37分]"
         },
         {
           "title": "特朗普：希望能访问委内瑞拉",
@@ -64,29 +76,6 @@
           "time_info": "[00时39分 ~ 01时32分]"
         },
         {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
-        },
-        {
           "title": "特朗普“炮轰”美国军火商",
           "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
           "source": "凤凰网",
@@ -94,19 +83,33 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
           "url": "https://www.cls.cn/detail/2252295",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
         },
         {
           "title": "特朗普 ：禁止囤房",
@@ -114,11 +117,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美都有关于处理特朗普住房命令的工具。",
@@ -131,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "特朗普退群“弃子”都有哪些",
+          "url": "https://www.toutiao.com/trending/7592986570223799834/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时37分]"
         },
         {
           "title": "学者：特朗普退群要带坏全球风气",
@@ -150,9 +165,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。 参议院下周将围绕这个议题投票。",
+          "url": "https://wallstreetcn.com/livenews/3033492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -166,15 +192,59 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国总统特朗普与国会联手推翻美国前总统拜登时代的明尼苏达州采矿禁令，助力安托法加斯塔(Antofagasta)的双金属项目。",
+          "url": "https://flash.jin10.com/detail/20260109022812663800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "谁是下任美联储主席？特朗普：心中已有决定",
+          "url": "https://wallstreetcn.com/livenews/3033489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "报道：特朗普政府考虑“收买”格陵兰岛居民",
+          "url": "https://wallstreetcn.com/livenews/3033488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "美国参议院多数议员投票支持推进一项决议，该决议将阻止特朗普在未获得国会授权的情况下对委内瑞拉采取进一步军事行动，目前投票仍在继续。",
           "url": "https://flash.jin10.com/detail/20260109004029091800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国财长贝森特：我认为美国总统特朗普将在一月份决定美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260109022640060800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
@@ -183,9 +253,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
+          "url": "https://wallstreetcn.com/livenews/3033482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国参议院要求阻挠特朗普对委内瑞拉采取进一步军事行动，白宫赶紧回应：特朗普会否决",
@@ -194,9 +275,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "英国政府发言人：英国首相斯塔默告诉美国总统特朗普，欧洲盟友近几个月已加大努力捍卫欧美大西洋利益，但为保护该地区仍可做更多。",
+          "url": "https://flash.jin10.com/detail/20260109021958171800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在未来一两个月就房利美和房地美的IPO作出决定。（外媒更正：非下个月）",
@@ -205,9 +297,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "英国政府发言人：英国首相斯塔默于今天下午与美国总统特朗普通话，双方一致认为，有必要在北极高纬度地区遏制日益咄咄逼人的俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20260109021943648800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "英国首相斯塔默今天下午与特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20260109021921151800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国“房管局”局长：特朗普将在未来一两个月内决定房利美和房地美的IPO事宜",
@@ -216,18 +330,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "特朗普退群“弃子”都有哪些",
-          "url": "https://www.toutiao.com/trending/7592986570223799834/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -245,38 +348,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
-        },
-        {
-          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗外长：已为任何可能发生的情况做好战争准备",
@@ -298,8 +371,60 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
+        },
+        {
+          "title": "伊朗实施网络管控",
+          "url": "https://wallstreetcn.com/livenews/3033493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "伊朗正发生全国范围的互联网断网。（NetBlocks）",
+          "url": "https://wallstreetcn.com/livenews/3033483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
         }
       ]
     },
@@ -312,11 +437,12 @@
           "url": "https://wallstreetcn.com/livenews/3033475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时37分]"
         }
       ]
     },
@@ -331,9 +457,26 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI将收购执Convogo背后的团队，后者是一款帮助执行教练、顾问、人才领导和人力资源团队实现领导力评估与反馈报告自动化和优化的商业软件平台。",
+          "url": "https://flash.jin10.com/detail/20260109021642687800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时32分"
+          "time_info": "02时37分"
         }
       ]
     },
@@ -350,8 +493,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时37分]"
         }
       ]
     }
