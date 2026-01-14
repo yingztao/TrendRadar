@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:39:28.054103+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-01-14T17:36:03.349666+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -79,6 +79,44 @@
           "time_info": "[10时13分 ~ 14时43分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "特朗普建议盟友“撤离”伊朗",
           "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
@@ -103,28 +141,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
+          "title": "英国央行委员泰勒：特朗普关税促使出口国寻找替代市场 英国通胀得以缓解",
+          "url": "https://flash.jin10.com/detail/20260114171639019800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            13,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时39分]"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -147,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -331,6 +345,18 @@
           "time_info": "[02时39分 ~ 03时26分]"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
           "url": "https://wallstreetcn.com/livenews/3036337",
           "source": "华尔街见闻-快讯",
@@ -485,6 +511,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
@@ -830,6 +867,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "美国特使威特科夫和特朗普女婿或在不久后前往莫斯科与普京会面",
+          "url": "https://flash.jin10.com/detail/20260114164958044800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
           "url": "https://wallstreetcn.com/livenews/3036306",
           "source": "华尔街见闻-快讯",
@@ -990,7 +1038,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1105,17 +1153,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1141,7 +1178,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1210,6 +1247,18 @@
           "time_info": "[00时40分 ~ 12时12分]"
         },
         {
+          "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
+          "url": "https://news.ifeng.com/c/8puQRfizORn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
           "url": "https://www.zhihu.com/question/1994353599640270638",
           "source": "知乎",
@@ -1222,6 +1271,17 @@
           "time_info": "[10时13分 ~ 15时32分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
           "url": "https://wallstreetcn.com/livenews/3036450",
           "source": "华尔街见闻-快讯",
@@ -1231,17 +1291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
-          "url": "https://news.ifeng.com/c/8puQRfizORn",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1264,6 +1313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗官员：若美对伊发动袭击，将打击地区内美军基地",
+          "url": "https://wallstreetcn.com/livenews/3036868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -1406,6 +1466,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "分析师：委内瑞拉恢复原油出口及伊朗局势主导原油市场",
+          "url": "https://flash.jin10.com/detail/20260114170148037800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "美政府再发安全警告，敦促美国公民立即离开伊朗",
           "url": "https://wallstreetcn.com/livenews/3036441",
           "source": "华尔街见闻-快讯",
@@ -1437,6 +1508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "土耳其外交部消息人士：土耳其外交部长与伊朗同行通电话，强调有必要通过谈判解决当前的地区紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260114165524487800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "市场消息：马斯克在伊朗互联网中断期间提供免费星链服务。",
@@ -1492,6 +1574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗司法总监敦促加快调查审理涉“恐怖分子和骚乱分子”案件",
+          "url": "https://wallstreetcn.com/livenews/3036839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "黎巴嫩真主党就伊朗局势发表声明 支持伊朗政府",
@@ -1552,7 +1645,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1562,8 +1655,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时13分 ~ 16时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时13分 ~ 17时36分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1662,6 +1755,28 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "携程(TCOM.O)美股盘前下跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260114170230347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -1752,6 +1867,18 @@
           "time_info": "[02时39分 ~ 06时29分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
           "url": "https://www.cls.cn/detail/2256720",
           "source": "财联社热门",
@@ -1772,17 +1899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         }
       ]
     },
@@ -1807,6 +1923,19 @@
           "time_info": "[00时40分 ~ 07时25分]"
         },
         {
+          "title": "金价暴涨下谁在赚钱",
+          "url": "https://www.toutiao.com/trending/7595070385364667930/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 17时36分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -1819,18 +1948,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 06时29分]"
-        },
-        {
-          "title": "金价暴涨下谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7595070385364667930/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 16时39分]"
         },
         {
           "title": "金价为何持续走强",
@@ -1909,7 +2026,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
