@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:12:52.575472+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-01-14T13:32:00.842141+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -210,6 +211,19 @@
           "time_info": "[02时39分 ~ 03时26分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
+        },
+        {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
           "url": "https://flash.jin10.com/detail/20260114020240505800",
           "source": "金十数据",
@@ -258,6 +272,41 @@
           "time_info": "[02时39分 ~ 03时26分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时32分]"
+        },
+        {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
           "url": "https://wallstreetcn.com/livenews/3036337",
           "source": "华尔街见闻-快讯",
@@ -280,18 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普：伊朗最好老实点。",
@@ -566,29 +603,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -646,17 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
@@ -1036,7 +1040,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1100,8 +1104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1137,6 +1141,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
+        },
+        {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
           "url": "https://flash.jin10.com/detail/20260114020738248800",
           "source": "金十数据",
@@ -1161,6 +1176,18 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
+        },
+        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
@@ -1173,15 +1200,15 @@
           "time_info": "[02时39分 ~ 04时33分]"
         },
         {
-          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/1994353599640270638",
-          "source": "知乎",
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时32分]"
         },
         {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
@@ -1208,27 +1235,37 @@
           "time_info": "[00时40分 ~ 01时32分]"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
+          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时13分 ~ 12时12分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "中方回应“是否建议公民去伊朗”",
-          "url": "https://www.douyin.com/hot/2366959",
-          "source": "抖音",
+          "title": "白宫：空袭只是对付伊朗的选项之一",
+          "url": "https://www.toutiao.com/trending/7594215539677888548/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
+          "url": "https://flash.jin10.com/detail/20260114130612270800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "13时32分"
         },
         {
           "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
@@ -1388,11 +1425,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时32分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1402,8 +1440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 13时32分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1546,8 +1584,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 13时32分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1568,7 +1606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1626,7 +1664,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1699,11 +1737,12 @@
             10,
             6,
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 13时32分]"
         }
       ]
     },
