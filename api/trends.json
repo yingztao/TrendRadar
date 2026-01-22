@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T12:13:40.611444+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-01-22T13:35:43.370048+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 125,
+      "match_count": 128,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时52分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[02时52分 ~ 13时35分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 13时35分]"
         },
         {
           "title": "特朗普刚喊完中俄威胁，转头就否了",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 13时35分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -130,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "特朗普大闹达沃斯，全世界哭笑不得",
@@ -141,8 +141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "特朗普称“美国拥有无人知晓的武器”，克宫表态",
@@ -152,8 +152,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
@@ -164,8 +164,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "全球市场深夜暴涨！特朗普，改口了",
@@ -175,8 +175,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 13时35分]"
         },
         {
           "title": "丹麦外长：丹麦方面拒绝特朗普提出的就收购格陵兰岛进行谈判的要求。",
@@ -188,6 +201,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
+          "url": "https://www.cls.cn/detail/2265890",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "特朗普称欧洲的“方向不对”",
@@ -212,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "北约发言人：北约秘书长吕特在达沃斯与美国总统特朗普就格陵兰岛问题会晤时“并未提出任何有损主权的妥协方案”。",
+          "url": "https://flash.jin10.com/detail/20260122131032443800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美国最高法院法官Kavanaugh：如果特朗普能够在未经审查的情况下解雇美联储理事库克，美联储的独立性可能会彻底崩塌。",
@@ -247,19 +284,6 @@
           "time_info": "04时39分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 12时13分]"
-        },
-        {
           "title": "美国总统特朗普：将观察能否让埃及与埃塞俄比亚达成尼罗河大坝协议。",
           "url": "https://wallstreetcn.com/livenews/3041425",
           "source": "华尔街见闻-快讯",
@@ -282,17 +306,6 @@
           "time_info": "04时39分"
         },
         {
-          "title": "美媒称特朗普今夏将坐上新空军一号",
-          "url": "https://wallstreetcn.com/livenews/3041740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
           "title": "据华尔街日报：知情人士透露，特朗普政府正积极寻求在年底前实现古巴政权更迭。特朗普政府评估认为古巴经济已接近崩溃。",
           "url": "https://flash.jin10.com/detail/20260122100142117800",
           "source": "金十数据",
@@ -313,6 +326,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
+          "url": "https://wallstreetcn.com/articles/3763851",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "美国总统特朗普：丹麦外交大臣并没有告诉我“丹方拒绝谈判”。",
@@ -363,6 +389,19 @@
           "time_info": "[04时39分 ~ 05时35分]"
         },
         {
+          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
+          "url": "https://wallstreetcn.com/articles/3763857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 13时35分]"
+        },
+        {
           "title": "美国总统特朗普：吕特的表态很好，但美国仍然需要格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260122022842657800",
           "source": "金十数据",
@@ -387,16 +426,16 @@
           "time_info": "[04时39分 ~ 05时35分]"
         },
         {
-          "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
-          "url": "https://www.cls.cn/detail/2265890",
-          "source": "财联社热门",
+          "title": "美媒称特朗普今夏将坐上新空军一号",
+          "url": "https://wallstreetcn.com/livenews/3041740",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            5
+            4,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "time_info": "[12时13分 ~ 13时35分]"
         },
         {
           "title": "特朗普达沃斯发言闹乌龙：格陵兰多次被称为冰岛",
@@ -423,16 +462,29 @@
           "time_info": "[04时39分 ~ 05时35分]"
         },
         {
-          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
-          "url": "https://wallstreetcn.com/articles/3763857",
-          "source": "华尔街见闻",
+          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
+          "url": "https://www.zhihu.com/question/1997263966708196399",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时13分]"
+          "time_info": "[10时20分 ~ 13时35分]"
+        },
+        {
+          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2265774",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "特朗普：正寻求就收购格陵兰岛谈判",
@@ -459,18 +511,6 @@
           "time_info": "[04时38分 ~ 06时32分]"
         },
         {
-          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
-          "url": "https://wallstreetcn.com/articles/3763851",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
-        },
-        {
           "title": "美国总统特朗普：（谈格陵兰岛）我希望北约确实会保卫美国。北约希望为所有人提供安全。",
           "url": "https://flash.jin10.com/detail/20260122022742369800",
           "source": "金十数据",
@@ -481,18 +521,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时33分]"
-        },
-        {
-          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
-          "url": "https://www.zhihu.com/question/1997263966708196399",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）可能会看到一个合理的价格。",
@@ -603,18 +631,6 @@
           "time_info": "[04时39分 ~ 05时35分]"
         },
         {
-          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2265774",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
-        },
-        {
           "title": "美国总统特朗普：周四将就加沙和平问题进行讨论。",
           "url": "https://flash.jin10.com/detail/20260122022330021800",
           "source": "金十数据",
@@ -625,6 +641,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时33分]"
+        },
+        {
+          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时35分]"
         },
         {
           "title": "美国总统特朗普：将与北约秘书长吕特讨论格陵兰岛事宜。",
@@ -774,7 +802,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -810,6 +838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
+          "url": "https://wallstreetcn.com/articles/3763883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
@@ -865,17 +904,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         },
         {
           "title": "特朗普一篇贴文 黄金暴跌超80美元",
@@ -994,7 +1022,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -1181,7 +1209,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -1406,6 +1434,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "特朗普笼罩下的达沃斯",
+          "url": "https://www.toutiao.com/trending/7598011889540402731/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "美国总统特朗普：我们正接近解决乌克兰战争。",
           "url": "https://flash.jin10.com/detail/20260122014604447800",
           "source": "金十数据",
@@ -1469,6 +1508,18 @@
           "time_info": "[01时02分 ~ 06时32分]"
         },
         {
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 13时35分]"
+        },
+        {
           "title": "美股集体高开 百度涨5%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
           "source": "百度热搜",
@@ -1480,18 +1531,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时32分 ~ 05时35分]"
-        },
-        {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时13分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -1543,6 +1582,18 @@
           "time_info": "[05时35分 ~ 06时32分]"
         },
         {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
+        },
+        {
           "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
           "url": "https://wallstreetcn.com/livenews/3041520",
           "source": "华尔街见闻-快讯",
@@ -1553,17 +1604,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
@@ -1659,8 +1699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时20分 ~ 13时35分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1750,6 +1790,18 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
+          "title": "黄金价格会崩吗",
+          "url": "https://www.toutiao.com/trending/7597976651418308122/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时35分]"
+        },
+        {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
           "url": "https://wallstreetcn.com/livenews/3041532",
           "source": "华尔街见闻-快讯",
@@ -1779,18 +1831,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "黄金价格会崩吗",
-          "url": "https://www.toutiao.com/trending/7597976651418308122/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -1801,7 +1842,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -1993,11 +2034,29 @@
             3,
             15,
             5,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 13时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息称谷歌将把旗下TPU服务器的L10~L11组装订单，交由英业达代工。 (台湾电子时报)",
+          "url": "https://wallstreetcn.com/livenews/3041754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     }
