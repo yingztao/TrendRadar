@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T17:37:21.881423+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-01-23T18:33:02.637600+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 111,
+      "match_count": 114,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -57,17 +57,6 @@
           "time_info": "[00时42分 ~ 14时44分]"
         },
         {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 13时35分]"
-        },
-        {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
@@ -77,8 +66,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时33分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 13时35分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -105,6 +105,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时43分 ~ 17时37分]"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时32分 ~ 18时33分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -212,16 +225,17 @@
           "time_info": "[00时42分 ~ 07时28分]"
         },
         {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            7,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 18时33分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -260,6 +274,29 @@
           "time_info": "[16时38分 ~ 17时37分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时33分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
+        },
+        {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
           "url": "https://wallstreetcn.com/livenews/3042228",
           "source": "华尔街见闻-快讯",
@@ -293,16 +330,16 @@
           "time_info": "16时39分"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
           "ranks": [
             7,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 18时33分]"
         },
         {
           "title": "特朗普：和平委员会撤回对加拿大的邀请。",
@@ -325,17 +362,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
-        },
-        {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -372,6 +398,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时43分 ~ 16时39分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 18时33分]"
         },
         {
           "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
@@ -484,17 +523,6 @@
           "time_info": "[00时42分 ~ 01时36分]"
         },
         {
-          "title": "特朗普称将于4月访华 中方回应",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
-        },
-        {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
           "url": "https://www.cls.cn/detail/2267060",
           "source": "财联社热门",
@@ -508,18 +536,6 @@
         },
         {
           "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访问中国",
           "url": "https://www.toutiao.com/trending/7597610597631033407/",
           "source": "今日头条",
           "ranks": [
@@ -528,6 +544,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时38分 ~ 17时37分]"
+        },
+        {
+          "title": "马克龙戴着墨镜警告特朗普",
+          "url": "https://www.toutiao.com/trending/7597330066661703723/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时33分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -599,6 +638,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时36分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
         },
         {
           "title": "摩根大通声明：美国总统特朗普的指控“毫无根据”。",
@@ -740,7 +790,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1081,7 +1131,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1249,17 +1299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "马克龙戴着墨镜警告特朗普",
-          "url": "https://www.toutiao.com/trending/7597330066661703723/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "特朗普在达沃斯启动“和平委员会”",
@@ -1468,7 +1507,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1509,7 +1548,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
@@ -1536,8 +1575,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 17时37分]"
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 18时33分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -1547,8 +1586,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 18时33分]"
         },
         {
           "title": "以媒称美近日或袭伊朗",
@@ -1580,11 +1619,23 @@
           "source": "抖音",
           "ranks": [
             15,
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 18时33分]"
+        },
+        {
+          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
+          "url": "https://www.cls.cn/detail/2267699",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
+          "time_info": "[17时37分 ~ 18时33分]"
         },
         {
           "title": "美军对伊朗开战进入倒计时了吗",
@@ -1598,15 +1649,15 @@
           "time_info": "[14时43分 ~ 14时44分]"
         },
         {
-          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
-          "url": "https://www.cls.cn/detail/2267699",
-          "source": "财联社热门",
+          "title": "外交部回应美调重兵前往伊朗",
+          "url": "https://www.toutiao.com/trending/7598008881004445750/",
+          "source": "今日头条",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
         },
         {
           "title": "伊朗议长称该国所有城市已恢复和平",
@@ -1650,6 +1701,18 @@
           "time_info": "[02时42分 ~ 04时36分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时33分]"
+        },
+        {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
           "url": "https://flash.jin10.com/detail/20260123151617900800",
           "source": "金十数据",
@@ -1670,17 +1733,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
@@ -1840,7 +1892,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1994,8 +2046,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 17时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 18时33分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
