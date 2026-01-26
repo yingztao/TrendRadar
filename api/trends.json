@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:37:37.320999+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-01-26T14:48:45.532411+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时48分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -117,6 +117,18 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时48分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普很看重北约。",
           "url": "https://flash.jin10.com/detail/20260125225503860800",
           "source": "金十数据",
@@ -143,18 +155,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时37分]"
         },
         {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
@@ -299,7 +299,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -321,7 +321,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -348,6 +348,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "特朗普就移民执法人员枪杀美公民发声",
+          "url": "https://www.toutiao.com/trending/7599204696355504171/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "特朗普“侮辱火箭筒”横扫达沃斯",
           "url": "https://www.toutiao.com/trending/7598851195557593151/",
           "source": "今日头条",
@@ -361,127 +372,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "分析师：金价或继续受益于美元走弱",
-          "url": "https://flash.jin10.com/detail/20260126114640038800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "杨德龙：国际金价下一目标价1万美元",
-          "url": "https://www.toutiao.com/trending/7599480136756366899/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时37分]"
-        },
-        {
-          "title": "国际金价突破5000美元关口",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时37分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时37分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时37分]"
-        },
-        {
-          "title": "金价首破5000美元，分析师：避险潮推动下“涨势势不可挡”",
-          "url": "https://flash.jin10.com/detail/20260126094903755800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260126094037137800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
-          "url": "https://flash.jin10.com/detail/20260126110251702800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
-          "url": "https://wallstreetcn.com/livenews/3043547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "国际金价疯涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -547,6 +439,17 @@
           "time_info": "[00时33分 ~ 05时26分]"
         },
         {
+          "title": "美国派出重兵合围伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "伊朗武装力量已进入全面戒备状态",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E5%8A%9B%E9%87%8F%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%92%E5%A4%87%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -564,11 +467,24 @@
           "url": "https://wallstreetcn.com/articles/3764129",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时48分]"
+        },
+        {
+          "title": "伊朗称若遭军事打击将袭击美航母",
+          "url": "https://www.toutiao.com/trending/7599250332044230719/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时48分]"
         },
         {
           "title": "土耳其外长警告外部势力勿插手伊朗事务",
@@ -593,13 +509,163 @@
           "time_info": "07时27分"
         },
         {
-          "title": "伊朗称若遭军事打击将袭击美航母",
-          "url": "https://www.toutiao.com/trending/7599250332044230719/",
+          "title": "伊朗警告美国勿发动军事打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E5%8B%BF%E5%8F%91%E5%8A%A8%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "杨德龙：国际金价下一目标价1万美元",
+          "url": "https://www.toutiao.com/trending/7599480136756366899/",
           "source": "今日头条",
+          "ranks": [
+            18,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时48分]"
+        },
+        {
+          "title": "分析师：金价或继续受益于美元走弱",
+          "url": "https://flash.jin10.com/detail/20260126114640038800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时48分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时48分]"
+        },
+        {
+          "title": "国际金价突破5000美元关口",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时37分]"
+        },
+        {
+          "title": "金价首破5000美元，分析师：避险潮推动下“涨势势不可挡”",
+          "url": "https://flash.jin10.com/detail/20260126094903755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260126094037137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
+          "url": "https://flash.jin10.com/detail/20260126110251702800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
+          "url": "https://wallstreetcn.com/livenews/3043547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "国际金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
@@ -609,6 +675,17 @@
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时48分]"
+        },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
@@ -622,34 +699,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
         }
       ]
     },
