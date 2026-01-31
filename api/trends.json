@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T18:32:31.406077+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-31T19:27:09.459686+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时49分 ~ 18时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时49分 ~ 19时27分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时49分 ~ 18时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时49分 ~ 19时27分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[10时29分 ~ 19时27分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -105,8 +105,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 19时27分]"
+        },
+        {
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时39分 ~ 19时27分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -132,8 +146,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时33分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[06时33分 ~ 19时27分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -149,6 +163,20 @@
           "time_info": "[00时49分 ~ 12时39分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时50分 ~ 19时27分]"
+        },
+        {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
           "url": "https://www.zhihu.com/question/2000660435238613290",
           "source": "知乎",
@@ -158,20 +186,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 07时32分]"
-        },
-        {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时39分 ~ 18时32分]"
         },
         {
           "title": "特朗普起诉美政府部门",
@@ -229,19 +243,6 @@
           "time_info": "[00时49分 ~ 06时33分]"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 18时32分]"
-        },
-        {
           "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
           "url": "https://wallstreetcn.com/livenews/3047643",
           "source": "华尔街见闻-快讯",
@@ -279,6 +280,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 19时27分]"
         },
         {
           "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
@@ -446,18 +459,6 @@
           "time_info": "[04时38分 ~ 05时35分]"
         },
         {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时32分]"
-        },
-        {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
           "url": "https://wallstreetcn.com/livenews/3047616",
           "source": "华尔街见闻-快讯",
@@ -569,6 +570,17 @@
           "time_info": "[01时39分 ~ 02时54分]"
         },
         {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
           "url": "https://wallstreetcn.com/livenews/3047544",
           "source": "华尔街见闻-快讯",
@@ -579,6 +591,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普又破防了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "特朗普关税在2025年导致加拿大铁路公司损失4亿美元",
@@ -614,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
+          "url": "https://flash.jin10.com/detail/20260131184250363800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普赞赏标普500指数创历史新高。",
@@ -707,7 +741,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国宣布对伊朗最新制裁措施",
@@ -789,6 +823,17 @@
           "time_info": "[14时50分 ~ 17时35分]"
         },
         {
+          "title": "伊朗总统谴责美以欧煽动仇恨",
+          "url": "https://wallstreetcn.com/livenews/3047682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "美军兵临城下，伊朗如何反击？",
           "url": "https://news.ifeng.com/c/8qL149kv1KE",
           "source": "凤凰网",
@@ -814,6 +859,32 @@
           "time_info": "[14时50分 ~ 17时35分]"
         },
         {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://wallstreetcn.com/livenews/3047663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时27分]"
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://flash.jin10.com/detail/20260131164253443800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时27分]"
+        },
+        {
           "title": "普京会见伊朗最高领袖顾问拉里贾尼",
           "url": "https://wallstreetcn.com/livenews/3047532",
           "source": "华尔街见闻-快讯",
@@ -825,30 +896,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时38分]"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://wallstreetcn.com/livenews/3047663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://flash.jin10.com/detail/20260131164253443800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "美国对伊朗实施新一轮制裁",
@@ -884,6 +931,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
+          "title": "伊朗4万吨“航母”出动能威慑美军吗",
+          "url": "https://www.toutiao.com/trending/7601295118858980915/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "伊朗最高领袖顾问称掌握敌方作战计划",
@@ -955,7 +1013,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -967,8 +1025,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时33分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[06时33分 ~ 19时27分]"
         },
         {
           "title": "金价",
@@ -997,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时39分 ~ 16时39分]"
+        },
+        {
+          "title": "金价30小时暴跌670美元 后市怎么走",
+          "url": "https://www.toutiao.com/trending/7601454930070605321/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
@@ -1067,6 +1136,18 @@
           "time_info": "[10时29分 ~ 12时39分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时27分]"
+        },
+        {
           "title": "金价大幅下跌水贝市场有人果断抄底",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%84%E5%BA%95%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1077,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时38分 ~ 17时35分]"
+        },
+        {
+          "title": "马光远：黄金价格进入算命阶段",
+          "url": "https://www.toutiao.com/trending/7601147470961184275/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
@@ -1111,17 +1203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         }
       ]
     },
@@ -1137,8 +1218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[10时29分 ~ 19时27分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -1174,8 +1255,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[10时29分 ~ 19时27分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -1267,7 +1348,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
@@ -1297,6 +1378,17 @@
           "time_info": "[01时39分 ~ 06时33分]"
         },
         {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
+        {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
           "url": "https://wallstreetcn.com/livenews/3047546",
           "source": "华尔街见闻-快讯",
@@ -1307,6 +1399,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3047621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            21,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 15时35分]"
+        },
+        {
+          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
+          "url": "https://www.zhihu.com/question/2000516785095537569",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时50分]"
         }
       ]
     },
@@ -1350,40 +1487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            21,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时30分 ~ 15时35分]"
-        },
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时50分]"
         }
       ]
     },
