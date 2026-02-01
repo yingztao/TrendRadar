@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T13:07:08.880263+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-01T14:58:43.094613+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -155,6 +155,17 @@
           "time_info": "[00时37分 ~ 06时30分]"
         },
         {
+          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
+          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时58分]"
+        },
+        {
           "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
           "url": "https://flash.jin10.com/detail/20260131214310942800",
           "source": "金十数据",
@@ -277,17 +288,6 @@
           "time_info": "[00时37分 ~ 07时30分]"
         },
         {
-          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
-          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
           "url": "https://wallstreetcn.com/livenews/3047691",
           "source": "华尔街见闻-快讯",
@@ -314,6 +314,30 @@
           "time_info": "[00时37分 ~ 05时29分]"
         },
         {
+          "title": "伊朗议长：伊朗将所有欧盟国家军队视为“恐怖组织”",
+          "url": "https://wallstreetcn.com/livenews/3047764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时58分]"
+        },
+        {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
           "url": "https://www.toutiao.com/trending/7600746871209508918/",
           "source": "今日头条",
@@ -323,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗议长宣布欧洲国家军队将被视为“恐怖组织”",
+          "url": "https://flash.jin10.com/detail/20260201142101756800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "伊朗最高领袖顾问：与人为制造的媒体战氛围相反，对美国的谈判架构正在逐步形成",
@@ -349,18 +384,6 @@
           "time_info": "[00时37分 ~ 03时26分]"
         },
         {
-          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
           "title": "伊朗阿巴斯港一楼房发生爆炸，伊朗军方表示已完成备战随时待发，目前伊朗局势如何？",
           "url": "https://www.zhihu.com/question/2001023837374998435",
           "source": "知乎",
@@ -371,6 +394,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时55分 ~ 13时07分]"
+        },
+        {
+          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 14时58分]"
         },
         {
           "title": "卡塔尔首相访问伊朗表态支持和平解决分歧",
@@ -397,17 +432,6 @@
           "time_info": "[10时55分 ~ 13时07分]"
         },
         {
-          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
-        },
-        {
           "title": "凤凰记者连线：伊朗一居民楼爆炸，革命卫队否认海军司令遇刺",
           "url": "https://news.ifeng.com/c/8qN8KqiPnlf",
           "source": "凤凰网",
@@ -430,6 +454,28 @@
           "time_info": "10时55分"
         },
         {
+          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2001056898753983700",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "市场消息：美国驻以色列大使表示，美方尚未作出对伊朗发动打击的决定。",
           "url": "https://flash.jin10.com/detail/20260201081524917800",
           "source": "金十数据",
@@ -444,7 +490,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -455,8 +501,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 14时58分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -579,16 +625,28 @@
           "time_info": "10时55分"
         },
         {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://wallstreetcn.com/livenews/3047762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
           "url": "https://wallstreetcn.com/livenews/3047752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 14时58分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -596,11 +654,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 14时58分]"
         },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
@@ -613,6 +672,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 13时07分]"
+        },
+        {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时58分]"
+        },
+        {
+          "title": "特朗普：希望沃什能降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3047748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 14时58分]"
         },
         {
           "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
@@ -651,30 +736,6 @@
           "time_info": "[10时55分 ~ 13时07分]"
         },
         {
-          "title": "特朗普：希望沃什能降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3047748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
           "url": "https://wallstreetcn.com/articles/3764621",
           "source": "华尔街见闻",
@@ -685,6 +746,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 01时31分]"
+        },
+        {
+          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509775",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 14时58分]"
+        },
+        {
+          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
+          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 14时58分]"
+        },
+        {
+          "title": "特朗普称美伊正谈判",
+          "url": "https://wallstreetcn.com/livenews/3047731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 14时58分]"
         },
         {
           "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
@@ -723,49 +820,16 @@
           "time_info": "[10时55分 ~ 13时07分]"
         },
         {
-          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
-          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
-        },
-        {
-          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509775",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
-        },
-        {
-          "title": "特朗普称美伊正谈判",
-          "url": "https://wallstreetcn.com/livenews/3047731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
           "title": "特朗普谈及古巴 称将达成协议",
           "url": "https://wallstreetcn.com/livenews/3047749",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时58分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -774,7 +838,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -785,7 +849,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -804,7 +868,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -828,8 +892,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 13时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 14时58分]"
         },
         {
           "title": "金价波动",
@@ -912,8 +976,30 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时58分]"
+        },
+        {
+          "title": "金价遭遇过山车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "金价暴跌 有柜姐发帖退单一律扣500",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时58分]"
         },
         {
           "title": "金价大跌 男子斥资20多万买入200克",
@@ -958,17 +1044,6 @@
           "ranks": [
             21,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 3,
