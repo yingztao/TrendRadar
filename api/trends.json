@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T15:51:38.146788+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-02-03T16:49:41.983887+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时41分 ~ 15时51分]"
+        },
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
@@ -100,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 16时49分]"
         },
         {
           "title": "特朗普威胁要向哈佛大学索赔10亿美元",
@@ -126,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时49分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -203,17 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "美国驻印度大使：美国总统特朗普刚刚与印度总理莫迪通话。",
@@ -439,7 +450,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -558,6 +569,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "伊朗首都一集市发生火灾 暂无人员伤亡报告",
+          "url": "https://wallstreetcn.com/livenews/3048972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
           "url": "https://wallstreetcn.com/livenews/3048461",
           "source": "华尔街见闻-快讯",
@@ -594,6 +616,18 @@
           "time_info": "[00时50分 ~ 07时35分]"
         },
         {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 16时49分]"
+        },
+        {
           "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
           "url": "https://www.zhihu.com/question/2001732629960081618",
           "source": "知乎",
@@ -607,16 +641,15 @@
           "time_info": "[10时41分 ~ 13时56分]"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
+          "title": "以色列：对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://www.cls.cn/detail/2278436",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            16
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "美国总统特使将与伊朗外长在土耳其会晤",
@@ -720,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 16时49分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -893,8 +926,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 16时49分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -984,7 +1017,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -996,6 +1029,62 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 07时35分]"
+        },
+        {
+          "title": "黄金两日暴跌后强势回升 分析师：当前价格回归合理区间",
+          "url": "https://flash.jin10.com/detail/20260203163759847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
+          "url": "https://flash.jin10.com/detail/20260203161832959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
+          "url": "https://flash.jin10.com/detail/20260203161619392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
