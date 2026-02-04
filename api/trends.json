@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:54:37.753123+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-02-04T18:48:45.323703+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 18时48分]"
         },
         {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 18时48分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 18时48分]"
         },
         {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 18时48分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -217,6 +217,19 @@
           "time_info": "[03时08分 ~ 04时46分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
+        },
+        {
           "title": "特朗普称正与伊朗进行谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
           "source": "澎湃新闻",
@@ -275,18 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "英美领导人通话讨论迪戈加西亚岛争议 此前特朗普立场反复",
@@ -350,7 +351,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -386,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
@@ -507,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
+          "url": "https://flash.jin10.com/detail/20260204180151298800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "诉状称：“特朗普金卡”计划为非法的“权钱交易”计划",
@@ -645,11 +668,12 @@
             8,
             24,
             18,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 18时48分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -672,6 +696,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 18时48分]"
         },
         {
           "title": "伊朗外交部：伊朗外长和阿曼外长通话，讨论了双边关系和地区局势，并交换了意见。",
@@ -718,19 +755,6 @@
           "time_info": "04时46分"
         },
         {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 17时54分]"
-        },
-        {
           "title": "美军击落伊朗无人机",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -742,6 +766,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 13时55分]"
+        },
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
         },
         {
           "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
@@ -779,16 +816,15 @@
           "time_info": "[10时35分 ~ 12时46分]"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时54分]"
+          "time_info": "[17时54分 ~ 18时48分]"
         },
         {
           "title": "伊朗外长同多国外长通电话 讨论地区局势",
@@ -811,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "持续超3小时 以总理与美特使会晤讨论伊朗问题",
@@ -1003,8 +1028,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 18时48分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时35分 ~ 17时54分]"
+          "time_info": "[10时35分 ~ 18时48分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1016,18 +1053,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 06时37分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 17时54分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1049,8 +1074,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 18时48分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1097,8 +1122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 18时48分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -1110,8 +1135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 18时48分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1246,7 +1271,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1597,11 +1622,12 @@
           "source": "微博",
           "ranks": [
             7,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时48分]"
         },
         {
           "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
@@ -1621,7 +1647,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1652,8 +1678,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 17时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 18时48分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
