@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T16:54:44.331525+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-02-05T17:54:20.361092+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时58分 ~ 16时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时58分 ~ 17时54分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时54分 ~ 16时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时54分 ~ 17时54分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -436,8 +436,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 17时54分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -446,11 +446,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 16时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 17时54分]"
         },
         {
           "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
@@ -631,7 +632,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -705,18 +706,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 17时54分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -737,11 +739,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 16时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 17时54分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -828,6 +831,18 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时54分]"
+        },
+        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -899,15 +914,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时54分"
         },
         {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
@@ -979,7 +994,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -1092,6 +1107,18 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时54分]"
+        },
+        {
           "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
           "url": "https://wallstreetcn.com/livenews/3050105",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时36分]"
+        },
+        {
+          "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260205173627035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -1147,17 +1185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。",
@@ -1229,7 +1256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
@@ -1332,9 +1359,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时54分]"
         }
       ]
     }
