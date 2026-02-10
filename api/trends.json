@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T15:14:35.723902+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-02-10T17:03:57.020118+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[00时05分 ~ 07时44分]"
         },
         {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 17时03分]"
+        },
+        {
           "title": "特朗普：我犯了大错",
           "url": "https://news.ifeng.com/c/8qctqBdiVbv",
           "source": "凤凰网",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
@@ -95,11 +96,12 @@
           "source": "微博",
           "ranks": [
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 17时03分]"
         },
         {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
@@ -110,8 +112,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 17时03分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -337,11 +339,12 @@
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 17时03分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -530,7 +533,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -575,7 +578,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -586,7 +589,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -616,7 +619,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -640,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
+          "url": "https://www.cls.cn/detail/2285329",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
@@ -721,7 +735,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -782,6 +796,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -808,23 +850,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
-          "url": "https://flash.jin10.com/detail/20260210150158914800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         }
       ]
     }
