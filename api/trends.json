@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:10:36.882820+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-02-12T16:57:05.501022+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时02分 ~ 15时10分]"
+          "appearance_count": 16,
+          "time_info": "[02时02分 ~ 16时57分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -57,6 +57,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://www.toutiao.com/trending/7605620935953956906/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普：任何在众议院或参议院投票反对关税的共和党人，在选举时（包括初选）都将承担严重后果。",
@@ -94,6 +138,18 @@
           "time_info": "[03时57分 ~ 05时42分]"
         },
         {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 16时57分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
           "url": "https://flash.jin10.com/detail/20260212012609836800",
           "source": "金十数据",
@@ -125,6 +181,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时57分]"
         },
         {
           "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
@@ -174,6 +243,18 @@
           "time_info": "[03时57分 ~ 04时50分]"
         },
         {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时57分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
           "url": "https://flash.jin10.com/detail/20260212032127249800",
           "source": "金十数据",
@@ -198,16 +279,15 @@
           "time_info": "[10时47分 ~ 13时04分]"
         },
         {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时04分 ~ 15时10分]"
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
@@ -234,18 +314,6 @@
           "time_info": "[06时37分 ~ 07时39分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 15时10分]"
-        },
-        {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260212055115912800",
           "source": "金十数据",
@@ -256,6 +324,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时39分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
@@ -340,17 +419,6 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
           "title": "美国众议院多数议员支持一项旨在终止美国总统特朗普对加拿大关税的决议，投票仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260212071315046800",
           "source": "金十数据",
@@ -368,7 +436,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -670,6 +738,20 @@
           "time_info": "[00时12分 ~ 07时39分]"
         },
         {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 16时57分]"
+        },
+        {
           "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
           "url": "https://www.cls.cn/detail/2287796",
           "source": "财联社热门",
@@ -702,19 +784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 15时10分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -832,11 +901,12 @@
             4,
             5,
             14,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 15时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 16时57分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -847,8 +917,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 15时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 16时57分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -870,11 +940,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时36分 ~ 15时10分]"
+          "appearance_count": 9,
+          "time_info": "[06时36分 ~ 16时57分]"
         },
         {
           "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
@@ -1017,8 +1088,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 15时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 16时57分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -1107,7 +1178,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1118,7 +1189,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         }
