@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:59:48.912247+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-02-18T23:59:13.178045+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 22时59分]"
+          "appearance_count": 10,
+          "time_info": "[16时55分 ~ 23时59分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -77,6 +77,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260218234329184800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
           "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
           "source": "凤凰网",
@@ -109,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
+          "url": "https://flash.jin10.com/detail/20260218233358175800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -344,6 +366,28 @@
           "time_info": "01时09分"
         },
         {
+          "title": "特朗普：日本在美投建的天然气电厂将成为全美最大",
+          "url": "https://wallstreetcn.com/livenews/3056374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美国参议院卫生委员会将于2月25日就美国总统特朗普提名的公共卫生局局长候选人凯西·米恩斯举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260218231039678800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "美国移民法官终止了美国总统特朗普政府针对哥伦比亚大学学生穆赫辛·马赫达维启动的驱逐程序。",
           "url": "https://flash.jin10.com/detail/20260218045923237800",
           "source": "金十数据",
@@ -501,7 +545,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -546,8 +590,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 22时59分]"
+          "appearance_count": 14,
+          "time_info": "[10时44分 ~ 23时59分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -625,6 +669,19 @@
           "time_info": "03时06分"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时19分 ~ 23时59分]"
+        },
+        {
           "title": "伊朗说永不寻求核武并随时接受核查",
           "url": "https://wallstreetcn.com/livenews/3056251",
           "source": "华尔街见闻-快讯",
@@ -651,18 +708,6 @@
           "time_info": "[16时55分 ~ 18时56分]"
         },
         {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时19分 ~ 22时59分]"
-        },
-        {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
           "url": "https://wallstreetcn.com/livenews/3056092",
           "source": "华尔街见闻-快讯",
@@ -675,6 +720,17 @@
           "time_info": "[03时06分 ~ 04时45分]"
         },
         {
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "伊朗外长要求美国停止动武威胁",
           "url": "https://wallstreetcn.com/livenews/3056206",
           "source": "华尔街见闻-快讯",
@@ -685,6 +741,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 14时09分]"
+        },
+        {
+          "title": "伊朗首都附近发生火灾，靠近军事设施",
+          "url": "https://flash.jin10.com/detail/20260218232706815800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
@@ -707,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260218230908167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -737,7 +815,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -833,7 +911,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -843,8 +921,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 22时59分]"
+          "appearance_count": 14,
+          "time_info": "[10时44分 ~ 23时59分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -857,8 +935,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 22时59分]"
+          "appearance_count": 22,
+          "time_info": "[01时09分 ~ 23时59分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -878,11 +956,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 22时59分]"
+          "appearance_count": 14,
+          "time_info": "[10时44分 ~ 23时59分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -893,8 +972,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时57分 ~ 22时59分]"
+          "appearance_count": 9,
+          "time_info": "[17时57分 ~ 23时59分]"
+        },
+        {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -978,6 +1068,18 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3056367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时59分]"
+        },
+        {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3056131",
           "source": "华尔街见闻-快讯",
@@ -1000,6 +1102,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时36分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
+          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时59分]"
         },
         {
           "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
@@ -1026,15 +1151,26 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3056367",
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "23时59分"
+        },
+        {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -1070,17 +1206,6 @@
           "time_info": "21时20分"
         },
         {
-          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3056361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
           "url": "https://wallstreetcn.com/livenews/3056121",
           "source": "华尔街见闻-快讯",
@@ -1098,7 +1223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -1109,7 +1234,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         },
@@ -1120,7 +1245,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时59分"
         }
@@ -1128,7 +1253,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌I/O开发者大会将于5月19日至20日举办",
@@ -1187,6 +1312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
+          "url": "https://flash.jin10.com/detail/20260218230854451800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
