@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:55:25.929084+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-02-18T17:57:35.098436+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -55,6 +55,17 @@
           "time_info": "[03时05分 ~ 07时36分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时57分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -184,6 +195,17 @@
           "time_info": "[10时44分 ~ 15时55分]"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时57分]"
+        },
+        {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260218042000423800",
           "source": "金十数据",
@@ -252,17 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
@@ -471,6 +482,33 @@
           "time_info": "[10时44分 ~ 15时55分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 17时57分]"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 17时57分]"
+        },
+        {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
           "url": "https://news.ifeng.com/c/8qp2Kff4127",
           "source": "凤凰网",
@@ -493,41 +531,17 @@
           "time_info": "03时06分"
         },
         {
-          "title": "伊朗将与俄罗斯举行海上联合军演",
-          "url": "https://wallstreetcn.com/livenews/3056261",
-          "source": "华尔街见闻-快讯",
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
+            11,
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时44分 ~ 16时55分]"
-        },
-        {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 16时55分]"
+          "time_info": "[12时59分 ~ 17时57分]"
         },
         {
           "title": "伊朗说永不寻求核武并随时接受核查",
@@ -535,23 +549,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 17时57分]"
+        },
+        {
+          "title": "伊朗将与俄罗斯举行海上联合军演",
+          "url": "https://wallstreetcn.com/livenews/3056261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时55分]"
-        },
-        {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时55分]"
+          "time_info": "[16时55分 ~ 17时57分]"
         },
         {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
@@ -680,7 +695,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -693,8 +708,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时09分 ~ 16时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 17时57分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 17时57分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -708,15 +734,16 @@
           "time_info": "[01时09分 ~ 05时42分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 16时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 17时57分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -741,16 +768,15 @@
           "time_info": "07时36分"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
+          "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 16时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -837,6 +863,17 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056127",
           "source": "华尔街见闻-快讯",
@@ -868,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3056266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
@@ -1076,11 +1124,12 @@
           "url": "https://wallstreetcn.com/livenews/3056259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时57分]"
         }
       ]
     }
