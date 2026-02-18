@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T06:40:22.410305+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-19T07:37:27.019843+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普施压下，日本急忙兑现投资承诺",
@@ -19,17 +19,6 @@
           "time_info": "[01时14分 ~ 01时15分]"
         },
         {
-          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
-          "url": "https://flash.jin10.com/detail/20260219061414903800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
           "url": "https://flash.jin10.com/detail/20260219024754983800",
           "source": "金十数据",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时37分]"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -111,6 +112,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
+          "url": "https://flash.jin10.com/detail/20260219070013382800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
           "url": "https://flash.jin10.com/detail/20260219024600016800",
           "source": "金十数据",
@@ -131,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
@@ -216,7 +239,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -249,7 +272,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -312,18 +335,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
           "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -334,19 +358,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
+        },
+        {
+          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
+          "url": "https://wallstreetcn.com/livenews/3056528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
@@ -406,6 +442,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "美国务院称对18名伊朗人实施签证限制措施",
+          "url": "https://wallstreetcn.com/livenews/3056522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
           "url": "https://flash.jin10.com/detail/20260219023914570800",
           "source": "金十数据",
@@ -423,7 +470,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -434,7 +481,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -464,7 +511,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -497,11 +544,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -512,8 +560,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -524,8 +572,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -536,8 +584,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时37分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -546,9 +594,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时37分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -556,11 +604,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时40分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时37分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -608,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "Doordash美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3056517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
@@ -706,6 +766,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -716,17 +788,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时50分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
-          "url": "https://flash.jin10.com/detail/20260219054611726800",
-          "source": "金十数据",
+          "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
+          "url": "https://wallstreetcn.com/livenews/3056484",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "07时37分"
+        },
+        {
+          "title": "美债收益率普遍涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3056469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     },
@@ -739,28 +828,12 @@
           "url": "https://wallstreetcn.com/livenews/3056504",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率普遍涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3056469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            9,
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时37分]"
         }
       ]
     }
