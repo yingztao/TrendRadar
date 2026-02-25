@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:06:53.024708+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-02-25T21:20:34.656361+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -64,11 +64,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时01分 ~ 20时06分]"
+          "appearance_count": 17,
+          "time_info": "[02时01分 ~ 21时20分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
@@ -152,8 +153,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 21时20分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -163,8 +164,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 21时20分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 21时20分]"
         },
         {
           "title": "美国总统特朗普：授予海岸警卫队成员功绩勋章。",
@@ -223,19 +238,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 20时06分]"
-        },
-        {
           "title": "美国总统特朗普：我们的军队和警察实力雄厚，美国再次赢得尊重——或许是前所未有的。",
           "url": "https://flash.jin10.com/detail/20260225103527917800",
           "source": "金十数据",
@@ -257,6 +259,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 21时20分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -305,19 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时00分 ~ 20时06分]"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -745,6 +747,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "特朗普称伊朗正研制能打到美国的导弹",
           "url": "https://wallstreetcn.com/livenews/3058568",
           "source": "华尔街见闻-快讯",
@@ -762,7 +775,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -913,7 +926,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
@@ -947,11 +960,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 20时06分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 21时20分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -1035,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 05时42分]"
+        },
+        {
+          "title": "德国外长：伊朗必须停止对哈马斯、真主党和胡塞武装的支持。",
+          "url": "https://flash.jin10.com/detail/20260225210414622800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -1286,7 +1311,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1354,7 +1379,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1505,9 +1530,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "美股期货维持涨势，纳斯达克100指数期货涨0.5%。美国贸易代表格里尔重申第122、301和232条作为关税的替代方案。暗示部分关税可能会高于15%。",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
@@ -1549,9 +1585,70 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
@@ -1604,56 +1701,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价暴涨下的众生相",
-          "url": "https://www.toutiao.com/trending/7610085865549905966/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20260225150843874800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
-          "url": "https://flash.jin10.com/detail/20260225150719104800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
-          "url": "https://flash.jin10.com/detail/20260225150243003800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         }
       ]
     },
@@ -1744,7 +1791,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         }
