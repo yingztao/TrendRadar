@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T19:20:51.259038+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-05-05T22:10:58.766559+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 75,
+      "match_count": 89,
       "titles": [
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -138,6 +138,29 @@
           "time_info": "[00时52分 ~ 02时20分]"
         },
         {
+          "title": "伊朗战争丨伊朗外长今日启程访问北京",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 22时10分]"
+        },
+        {
+          "title": "伊朗外长将应邀访华",
+          "url": "https://www.toutiao.com/trending/7635805021707468842/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "伊朗官员称伊方没有计划袭击阿联酋",
           "url": "https://wallstreetcn.com/livenews/3098587",
           "source": "华尔街见闻-快讯",
@@ -155,7 +178,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -180,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
-        },
-        {
-          "title": "伊朗战争丨伊朗外长今日启程访问北京",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：巴林宣布进入警戒状态，因担忧可能遭受袭击。",
@@ -298,7 +310,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -379,6 +391,32 @@
           "time_info": "[08时01分 ~ 11时43分]"
         },
         {
+          "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
+          "url": "https://www.cls.cn/detail/2362714",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
+          "title": "伊朗向美舰发射导弹画面曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
           "title": "伊朗向美军舰发射导弹",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
@@ -403,18 +441,6 @@
           "time_info": "[06时08分 ~ 08时01分]"
         },
         {
-          "title": "伊朗向美舰发射导弹画面曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时20分]"
-        },
-        {
           "title": "美军中央司令部称没有海军舰艇被伊朗导弹击中",
           "url": "https://m.thepaper.cn/newsDetail_forward_33097431",
           "source": "澎湃新闻",
@@ -427,8 +453,8 @@
           "time_info": "[17时11分 ~ 19时20分]"
         },
         {
-          "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
-          "url": "https://www.cls.cn/detail/2362714",
+          "title": "伊朗称2枚导弹击中美军舰，国际油价直线拉升",
+          "url": "https://www.cls.cn/detail/2362576",
           "source": "财联社热门",
           "ranks": [
             13,
@@ -436,7 +462,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时20分]"
+          "time_info": "[04时21分 ~ 22时10分]"
         },
         {
           "title": "消息人士：美国向2艘小型民船开火，而非革命卫队的船只。美国军方声称打击了6艘伊朗快艇的说法不实，实际上没有任何伊朗卫队的战斗船只受到攻击。",
@@ -456,9 +482,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035083404564285179",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方消息人士警告阿联酋不要沦为“以色列的棋子”，称任何错误举动都将招致严厉回应。伊朗军方消息人士称未发布针对阿联酋的官方威胁，相关报道源自媒体。",
@@ -489,7 +526,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -527,6 +564,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "伊朗外长阿拉格齐将访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099650",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美中央司令部司令：已消灭六艘试图干扰商船航行的伊朗小型船只",
           "url": "https://flash.jin10.com/detail/20260505002404840800",
           "source": "金十数据",
@@ -538,15 +586,26 @@
           "time_info": "00时53分"
         },
         {
-          "title": "伊朗称2枚导弹击中美军舰，国际油价直线拉升",
-          "url": "https://www.cls.cn/detail/2362576",
-          "source": "财联社热门",
+          "title": "消息人士：美以正在协调 或准备对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3098801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "伊朗向美舰发射导弹视频曝光",
+          "url": "https://www.toutiao.com/trending/7636330220844322355/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "22时10分"
         },
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -555,7 +614,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -626,6 +685,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "伊朗首都德黑兰西部购物中心发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260505214921423800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "【无人机袭击，致阿联酋富查伊拉石油工业区起火】阿联酋富查伊拉媒体办公室4日证实，富查伊拉石油工业区发生火灾，原因是受到一架来自伊朗方向的无人机袭击。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3098541",
           "source": "华尔街见闻-快讯",
@@ -635,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "曝美以或准备对伊朗发动新一轮打击",
+          "url": "https://www.toutiao.com/trending/7635456789408972809/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：我们准备在任何时候采取行动。 欧洲央行的观望状态并非迟疑不决。 （伊朗）战争存在持续更长时间的风险，这会让通胀保持在高位。",
@@ -665,9 +746,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "美军称随时准备好恢复对伊朗大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3098795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "据伊朗国家电视台：伊朗军事官员称，阿联酋富查伊拉港发生的事件是由于美国军方的冒险行为，美方试图在霍尔木兹海峡创造非法船只通行的通道。",
@@ -690,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美防长：与伊朗的停火尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3098794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗德尔港四艘商船的火灾已被扑灭。",
@@ -736,6 +839,28 @@
           "time_info": "02时20分"
         },
         {
+          "title": "伊朗外长阿拉格齐将访华",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E5%B0%86%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐启程访华",
+          "url": "https://www.douyin.com/hot/2489450",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "消息称以色列“铁穹”防空系统在阿联酋拦截伊朗导弹",
           "url": "https://flash.jin10.com/detail/20260505013101437800",
           "source": "金十数据",
@@ -745,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美军称伊朗的袭击尚未达到“重启大规模作战行动的门槛”",
+          "url": "https://wallstreetcn.com/livenews/3098788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "伊高级指挥官：伊朗正控制霍尔木兹海峡，美无法扭转当前局面",
@@ -764,7 +900,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -855,12 +991,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "伊朗外交部长访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：“自由计划”与“史诗之怒”是分开的，并且是临时性的。 美国的目标是保护航运免受伊朗侵略。 伊朗并不控制霍尔木兹海峡。 美国在开启霍尔木兹海峡行动中，不需要进入伊朗领空或水域。 美国的封锁措施仍然完全有效。 中央司令部及合作国家正在与数百艘船只、航运公司和保险公司保持积极沟通。 如果伊朗攻击商业船只，将面临压倒性的火力打击。 美国期望国际社会在适当时机挺身而出，并将很快移交相关责任。",
+          "url": "https://wallstreetcn.com/livenews/3098783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -906,11 +1064,12 @@
           "ranks": [
             9,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 22时10分]"
         },
         {
           "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
@@ -946,27 +1105,78 @@
           "time_info": "[00时52分 ~ 08时01分]"
         },
         {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
           "title": "特朗普关税退款引质疑，“简直令人抓狂”",
           "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时10分]"
         },
         {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
+          "title": "美防长称特朗普无需寻求国会批准即可继续对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260505220317699800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美防长称特朗普无需寻求国会批准即可继续对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3098814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 22时10分]"
         },
         {
           "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
@@ -992,18 +1202,6 @@
           "time_info": "[00时52分 ~ 06时08分]"
         },
         {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时20分]"
-        },
-        {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
           "url": "https://flash.jin10.com/detail/20260505060622689800",
           "source": "金十数据",
@@ -1016,28 +1214,28 @@
           "time_info": "[06时08分 ~ 08时01分]"
         },
         {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
           "source": "凤凰网",
           "ranks": [
-            6,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 22时10分]"
+        },
+        {
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时20分]"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 19时20分]"
+          "time_info": "[19时20分 ~ 22时10分]"
         },
         {
           "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
@@ -1097,17 +1295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 00时53分]"
-        },
-        {
-          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
-          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
@@ -1264,6 +1451,17 @@
           "time_info": "17时11分"
         },
         {
+          "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2034903072279721909",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "特朗普称美国与伊朗处于“迷你战争”状态",
           "url": "https://flash.jin10.com/detail/20260505050012247800",
           "source": "金十数据",
@@ -1295,6 +1493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "特朗普准备“抛弃”台湾了吗",
+          "url": "https://www.toutiao.com/trending/7636182005881356307/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
@@ -1432,7 +1641,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -1464,9 +1673,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 22时10分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
@@ -1491,18 +1713,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 19时20分]"
-        },
-        {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
           "url": "https://wallstreetcn.com/livenews/3098642",
           "source": "华尔街见闻-快讯",
@@ -1524,6 +1734,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔大涨8%",
+          "url": "https://wallstreetcn.com/livenews/3098804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3098796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
@@ -1557,6 +1800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260505214411338800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。 一季度月活用户数6.31亿，分析师预期6.3047亿。 预计二季度营收11.3亿-11.5亿美元，分析师预期11.2亿美元。 Pinterest美股盘后涨15%。",
@@ -1601,6 +1855,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "谷歌：Chrome Enterprise为医疗保健行业推出新的集成功能。",
+          "url": "https://flash.jin10.com/detail/20260505001001920800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "谷歌母公司Alphabet正式启动为期四期的加拿大元债券的发售。",
+          "url": "https://wallstreetcn.com/livenews/3098789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将在其创纪录的欧元债券发售中至少筹集90亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3098784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -1656,6 +1960,89 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价银价又大跌了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24,
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 08时01分]"
+        },
+        {
+          "title": "金价跳水是机会还是坑",
+          "url": "https://www.toutiao.com/trending/7636354274716290614/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
+          "url": "https://wallstreetcn.com/livenews/3098531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 11时43分]"
+        },
+        {
+          "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
+          "url": "https://wallstreetcn.com/articles/3771562",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "2/10年期美债收益率涨约7个基点",
+          "url": "https://wallstreetcn.com/livenews/3098618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1664,11 +2051,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 22时10分]"
         },
         {
           "title": "DeepSeek员工为何不加班",
@@ -1682,34 +2070,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 08时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
-          "url": "https://wallstreetcn.com/articles/3771528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "谷歌：Chrome Enterprise为医疗保健行业推出新的集成功能。",
-          "url": "https://flash.jin10.com/detail/20260505001001920800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
         }
       ]
     },
@@ -1739,67 +2099,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价银价又大跌了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24,
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 08时01分]"
-        },
-        {
-          "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
-          "url": "https://wallstreetcn.com/livenews/3098531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 11时43分]"
-        },
-        {
-          "title": "2/10年期美债收益率涨约7个基点",
-          "url": "https://wallstreetcn.com/livenews/3098618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
         }
       ]
     }
