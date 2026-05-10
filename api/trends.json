@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T14:45:24.990725+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-05-10T16:59:35.020664+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -76,11 +76,44 @@
             6,
             7,
             15,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
+        },
+        {
+          "title": "伊朗官员：提防美国“海盗式行动”",
+          "url": "https://wallstreetcn.com/livenews/3101089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            8,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
+        },
+        {
+          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
+          "url": "https://wallstreetcn.com/livenews/3101091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            9,
+            17,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
         },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -119,34 +152,18 @@
           "time_info": "[06时54分 ~ 07时56分]"
         },
         {
-          "title": "伊朗官员：提防美国“海盗式行动”",
-          "url": "https://wallstreetcn.com/livenews/3101089",
+          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3101094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            8,
-            16,
+            1,
+            9,
+            15,
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
-          "url": "https://wallstreetcn.com/livenews/3101091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            9,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 16时59分]"
         },
         {
           "title": "俄罗斯总统普京：我希望伊朗冲突尽快结束。",
@@ -195,7 +212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -210,30 +227,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时56分]"
-        },
-        {
-          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3101094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
-          "url": "https://wallstreetcn.com/livenews/3101109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "伊朗伊斯兰革命卫队航空航天部队指挥官：航空航天部队的导弹和无人机已锁定敌人，我们正等待发射命令。",
@@ -262,17 +255,6 @@
           "time_info": "[04时53分 ~ 07时56分]"
         },
         {
-          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
-          "url": "https://wallstreetcn.com/livenews/3101108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
           "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
           "url": "https://flash.jin10.com/detail/20260510044333531800",
           "source": "金十数据",
@@ -283,6 +265,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时56分]"
+        },
+        {
+          "title": "伊朗称若敌人再袭将进入新作战领域",
+          "url": "https://wallstreetcn.com/livenews/3101114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
+          "url": "https://wallstreetcn.com/livenews/3101109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 16时59分]"
+        },
+        {
+          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
+          "url": "https://wallstreetcn.com/livenews/3101108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 16时59分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：俄罗斯总统普京表示，美伊持续交战对谁都没好处。美伊局势极为复杂，也让俄罗斯陷入两难境地，因为我们与伊朗和阿拉伯国家都保持着良好关系。",
@@ -360,6 +377,19 @@
           "time_info": "[05时53分 ~ 07时56分]"
         },
         {
+          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
+          "url": "https://wallstreetcn.com/livenews/3101098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时59分]"
+        },
+        {
           "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
           "url": "https://flash.jin10.com/detail/20260510043001446800",
           "source": "金十数据",
@@ -383,16 +413,15 @@
           "time_info": "[00时02分 ~ 03时13分]"
         },
         {
-          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
-          "url": "https://wallstreetcn.com/livenews/3101098",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时45分]"
+          "time_info": "[14时45分 ~ 16时59分]"
         },
         {
           "title": "伊朗外长晒访华视频感谢中国",
@@ -442,17 +471,6 @@
           "time_info": "[03时13分 ~ 04时53分]"
         },
         {
-          "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
           "title": "Polymarket预测市场显示，截至6月30日，美国与伊朗达成永久性和平协议的可能性为51%。",
           "url": "https://flash.jin10.com/detail/20260510111956260800",
           "source": "金十数据",
@@ -470,7 +488,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -508,6 +526,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "伊朗军方：制裁伊朗的国家通过霍尔木兹海峡时将“面临困难”",
+          "url": "https://flash.jin10.com/detail/20260510155822696800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
           "url": "https://flash.jin10.com/detail/20260509211628079800",
           "source": "金十数据",
@@ -517,6 +546,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
+          "url": "https://wallstreetcn.com/livenews/3101112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "伊朗海军司令：自主建造的轻型潜艇正在霍尔木兹海峡待命",
+          "url": "https://flash.jin10.com/detail/20260510155306716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "普京：伊朗战事让俄罗斯处境复杂",
@@ -558,7 +609,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -624,7 +675,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -656,11 +707,12 @@
             5,
             6,
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 16时59分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -698,8 +750,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 16时59分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -776,7 +828,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -793,11 +845,12 @@
           "ranks": [
             11,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 16时59分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -805,11 +858,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 16时59分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -830,9 +884,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 16时59分]"
         }
       ]
     },
@@ -860,11 +914,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 16时59分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -899,7 +954,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -929,11 +984,23 @@
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 16时59分]"
+        },
+        {
+          "title": "沙特阿美股价在早盘交易中上涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260510150124748800",
+          "source": "金十数据",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "16时59分"
         }
       ]
     }
