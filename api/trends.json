@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T06:55:49.165099+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-05-11T07:58:50.861820+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 87,
+      "match_count": 94,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时58分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时58分]"
         },
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
@@ -53,6 +53,22 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            21,
+            16,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 07时58分]"
         },
         {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
@@ -87,9 +103,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "伊朗战争丨伊方已拒绝美国提出的方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
@@ -114,21 +141,6 @@
           "time_info": "[00时03分 ~ 05时55分]"
         },
         {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            21,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 06时55分]"
-        },
-        {
           "title": "巴基斯坦总理在发言中表示，该国陆军司令已告知他，已收到伊朗对美国提议的回复。",
           "url": "https://flash.jin10.com/detail/20260510233055519800",
           "source": "金十数据",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
-          "url": "https://flash.jin10.com/detail/20260511062016303800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我不会讨论军事手段，但获取伊朗高浓缩铀是可行的。",
@@ -198,6 +199,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊朗暗示相关国家应从历史中汲取教训",
+          "url": "https://wallstreetcn.com/livenews/3101194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://www.toutiao.com/trending/7638239152550448650/",
           "source": "今日头条",
@@ -210,6 +222,59 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 04时56分]"
+        },
+        {
+          "title": "伊朗对美国的回应包括撤销OFAC（美国财政部海外资产控制办公室）施加的石油销售制裁。",
+          "url": "https://wallstreetcn.com/livenews/3101170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗：摧毁一架入侵的敌方无人机",
+          "url": "https://wallstreetcn.com/livenews/3101179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗军方在西南部击落一架无人侦查机。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3101177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗提议美方在30天内撤销对伊石油销售制裁",
+          "url": "https://wallstreetcn.com/livenews/3101176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时58分]"
         },
         {
           "title": "专家警告：伊朗与美国全面和平协议“遥遥无期”",
@@ -236,31 +301,6 @@
           "time_info": "[03时14分 ~ 04时56分]"
         },
         {
-          "title": "伊朗：摧毁一架入侵的敌方无人机",
-          "url": "https://wallstreetcn.com/livenews/3101179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
-        },
-        {
-          "title": "伊朗对美国的回应包括撤销OFAC（美国财政部海外资产控制办公室）施加的石油销售制裁。",
-          "url": "https://wallstreetcn.com/livenews/3101170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
-        },
-        {
           "title": "据华尔街日报：伊朗对美国的回应中提出稀释浓缩铀并将其部分转移至第三国的建议。",
           "url": "https://flash.jin10.com/detail/20260511030438511800",
           "source": "金十数据",
@@ -271,18 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时56分]"
-        },
-        {
-          "title": "伊朗军方在西南部击落一架无人侦查机。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3101177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
         },
         {
           "title": "巴林王国谴责伊朗对阿联酋的持续公然攻击。",
@@ -321,16 +349,16 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
-          "title": "伊朗提议美方在30天内撤销对伊石油销售制裁",
-          "url": "https://wallstreetcn.com/livenews/3101176",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
+          "url": "https://flash.jin10.com/detail/20260511062016303800",
+          "source": "金十数据",
           "ranks": [
             3,
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
+          "time_info": "[06时55分 ~ 07时58分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -359,6 +387,20 @@
           "time_info": "[04时56分 ~ 05时55分]"
         },
         {
+          "title": "消息人士：伊朗对美最新回应聚焦结束地区战争",
+          "url": "https://wallstreetcn.com/livenews/3101169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗方面的回应强调，在签署初步协议后，必须立即结束对伊朗的海上封锁。",
           "url": "https://flash.jin10.com/detail/20260511035035591800",
           "source": "金十数据",
@@ -381,19 +423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
-        },
-        {
-          "title": "消息人士：伊朗对美最新回应聚焦结束地区战争",
-          "url": "https://wallstreetcn.com/livenews/3101169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
         },
         {
           "title": "以总理称与伊朗战事“尚未结束”，必须运离其高浓缩铀",
@@ -485,6 +514,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗足协公布参加 2026 年美加墨世界杯 10 项条件，伊朗三场小组赛全被安排在美国，能顺利成行吗？",
+          "url": "https://www.zhihu.com/question/2036524576935518301",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时58分]"
         },
         {
           "title": "普京：伊朗战事让俄罗斯处境复杂",
@@ -583,6 +625,18 @@
           "time_info": "[04时56分 ~ 05时55分]"
         },
         {
+          "title": "伊媒：伊朗不会为取悦美方而制定计划",
+          "url": "https://wallstreetcn.com/livenews/3101181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时58分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社援引伊朗消息人士报道，伊朗的回应将若干其他问题纳入了一项“政治谅解”框架内。",
           "url": "https://flash.jin10.com/detail/20260511034407787800",
           "source": "金十数据",
@@ -619,6 +673,18 @@
           "time_info": "[04时56分 ~ 05时55分]"
         },
         {
+          "title": "伊朗外交部：伊朗外长与荷兰外长通话，就双边关系及最新的地区和外交动态交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260511055903355800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时58分]"
+        },
+        {
           "title": "据以色列i24新闻台：伊朗已提交长达数页的回应，但未满足美国关于核计划及浓缩铀库存承诺要求。",
           "url": "https://flash.jin10.com/detail/20260511032746517800",
           "source": "金十数据",
@@ -631,6 +697,18 @@
           "time_info": "[04时56分 ~ 05时55分]"
         },
         {
+          "title": "美国共和党参议员格雷厄姆：认为伊朗在谈判解决方案中无需彻底销毁其所有铀浓缩设施，这种说法毫无道理。所谓的暂停措施（如果不彻底拆除铀浓缩设施与相关能力）本质上就会重新变成《联合全面行动计划》（JCPOA，即“伊核协议”）。我确信伊朗拒绝摧毁其铀浓缩能力的立场将遭到坚决反对。",
+          "url": "https://flash.jin10.com/detail/20260511055611106800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时58分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）援引消息人士报道，伊朗方面要求停止战争并提供保证，以换取开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260511032524099800",
           "source": "金十数据",
@@ -641,18 +719,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时55分]"
-        },
-        {
-          "title": "伊朗足协公布参加 2026 年美加墨世界杯 10 项条件，伊朗三场小组赛全被安排在美国，能顺利成行吗？",
-          "url": "https://www.zhihu.com/question/2036524576935518301",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
         },
         {
           "title": "伊朗外交部：伊朗新任驻越南大使与越南外长会面。",
@@ -739,6 +805,17 @@
           "time_info": "[00时03分 ~ 01时56分]"
         },
         {
+          "title": "伊媒：伊朗已拒绝美国提出的方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AA%92%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "伊朗副外长：海洋安全不能通过军事力量的展示来实现。不安全的根源在于诉诸武力、对沿海国家的持续威胁以及海上封锁。",
           "url": "https://flash.jin10.com/detail/20260510232149952800",
           "source": "金十数据",
@@ -750,6 +827,28 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊媒：伊朗已拒绝美国提出的方案",
+          "url": "https://flash.jin10.com/detail/20260511070610446800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：与伊朗的战争尚未结束。",
           "url": "https://flash.jin10.com/detail/20260510232041608800",
           "source": "金十数据",
@@ -759,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "伊朗革命卫队高官：美国航母威慑时代已终结",
+          "url": "https://flash.jin10.com/detail/20260511070241260800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "以色列总理内塔尼亚胡对美国哥伦比亚广播公司（CBS）表示，尽管我们已经削弱了伊朗的许多能力，但仍有许多工作要做，因为伊朗依旧具备一定的实力。",
@@ -783,17 +893,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "伊媒：伊朗不会为取悦美方而制定计划",
-          "url": "https://wallstreetcn.com/livenews/3101181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
           "title": "法国总统马克龙回应伊朗对法英军舰的警告，表示不存在部署问题，但随时准备为国际使命提供协助。",
           "url": "https://flash.jin10.com/detail/20260511005346732800",
           "source": "金十数据",
@@ -811,7 +910,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -825,17 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与荷兰外长通话，就双边关系及最新的地区和外交动态交换了意见。",
-          "url": "https://flash.jin10.com/detail/20260511055903355800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         },
         {
           "title": "伊朗对美国方案的回应聚焦“结束战争与海上安全”",
@@ -858,17 +946,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：认为伊朗在谈判解决方案中无需彻底销毁其所有铀浓缩设施，这种说法毫无道理。所谓的暂停措施（如果不彻底拆除铀浓缩设施与相关能力）本质上就会重新变成《联合全面行动计划》（JCPOA，即“伊核协议”）。我确信伊朗拒绝摧毁其铀浓缩能力的立场将遭到坚决反对。",
-          "url": "https://flash.jin10.com/detail/20260511055611106800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         },
         {
           "title": "伊朗副外长：法国和英国军舰若出现在霍尔木兹海峡，可能伴随美国非法且违反国际法的行动，伊朗将立即予以果断回应。",
@@ -910,9 +987,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "伊媒：伊朗已拒绝美国提出的方案",
+          "url": "https://wallstreetcn.com/livenews/3101180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
@@ -1039,7 +1127,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
@@ -1048,33 +1136,65 @@
           "ranks": [
             1,
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
         },
         {
-          "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
-          "url": "https://flash.jin10.com/detail/20260511062819908800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "美国总统特朗普在社交媒体上发帖批评福克斯新闻偏袒民主党人撒谎。",
-          "url": "https://flash.jin10.com/detail/20260511061810220800",
+          "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
+          "url": "https://flash.jin10.com/detail/20260511071706316800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通电话",
+          "url": "https://wallstreetcn.com/livenews/3101171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -1091,45 +1211,6 @@
           "time_info": "[03时14分 ~ 06时55分]"
         },
         {
-          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
-        },
-        {
-          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
-        },
-        {
-          "title": "内塔尼亚胡与特朗普通电话",
-          "url": "https://wallstreetcn.com/livenews/3101171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
-        },
-        {
           "title": "特朗普：伊朗的回应完全不可接受",
           "url": "https://flash.jin10.com/detail/20260511041440041800",
           "source": "金十数据",
@@ -1140,6 +1221,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时55分]"
+        },
+        {
+          "title": "特朗普：联邦机构必须优先采购美国货",
+          "url": "https://wallstreetcn.com/livenews/3101161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时58分]"
+        },
+        {
+          "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
+          "url": "https://flash.jin10.com/detail/20260511062819908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：我们刚刚成功促成三名波兰人和两名摩尔多瓦人获释，他们此前被关押在白俄罗斯和俄罗斯的拘留所。",
@@ -1166,16 +1272,16 @@
           "time_info": "[03时14分 ~ 04时56分]"
         },
         {
-          "title": "特朗普：联邦机构必须优先采购美国货",
-          "url": "https://wallstreetcn.com/livenews/3101161",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普在社交媒体上发帖批评福克斯新闻偏袒民主党人撒谎。",
+          "url": "https://flash.jin10.com/detail/20260511061810220800",
+          "source": "金十数据",
           "ranks": [
             4,
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
+          "time_info": "[06时55分 ~ 07时58分]"
         },
         {
           "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
@@ -1184,11 +1290,12 @@
           "ranks": [
             7,
             11,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 07时58分]"
         },
         {
           "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
@@ -1252,6 +1359,18 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
+          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3101184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时58分]"
+        },
+        {
           "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
           "url": "https://flash.jin10.com/detail/20260511043952589800",
           "source": "金十数据",
@@ -1274,17 +1393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时55分]"
-        },
-        {
-          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
-          "url": "https://wallstreetcn.com/livenews/3101184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
@@ -1329,6 +1437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上发帖批评最高法院大法官关税裁决让美国损失了1590亿美元、出生公民权裁决危害国家安全。",
+          "url": "https://flash.jin10.com/detail/20260511063947355800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）援引以色列媒体报道，以色列总理内塔尼亚胡今晚将与美国总统特朗普通电话。",
@@ -1398,11 +1517,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时58分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -1413,8 +1533,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时58分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -1422,11 +1542,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 07时58分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -1450,22 +1571,24 @@
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时58分]"
         },
         {
           "title": "美股三大股指期货周一开盘微跌。",
           "url": "https://flash.jin10.com/detail/20260511060044695800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时58分]"
         }
       ]
     },
