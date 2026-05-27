@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T02:05:40.133353+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T05:05:04.220104+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 31,
       "titles": [
         {
-          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
-          "url": "https://wallstreetcn.com/livenews/3110214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
           "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
+        },
+        {
+          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
+          "url": "https://wallstreetcn.com/livenews/3110214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -352,19 +352,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
           "url": "https://news.ifeng.com/c/8tTBSVzined",
@@ -373,8 +362,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
@@ -384,8 +385,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
@@ -395,8 +396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
@@ -406,8 +407,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -417,8 +418,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -428,8 +429,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时23艘船只获准通过霍尔木兹海峡",
@@ -463,12 +464,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。 伊朗战争加重了经济面临的下行风险。 世界杯对经济的利好效应可能会超过预期。",
+          "url": "https://wallstreetcn.com/livenews/3110232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -478,8 +490,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3110260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "05时05分"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -489,8 +512,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -500,8 +523,30 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时05分]"
+        },
+        {
+          "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
+          "url": "https://wallstreetcn.com/livenews/3110256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "05时05分"
+        },
+        {
+          "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
+          "url": "https://wallstreetcn.com/livenews/3110250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
@@ -528,6 +573,62 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率大致持稳",
+          "url": "https://wallstreetcn.com/livenews/3110237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
+          "url": "https://wallstreetcn.com/livenews/3110231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.00%，暂报2778.94点，整体处于低位窄幅震荡状态。 MarketVectorTM数字资产100中盘指数跌1.96%，报3006.62点。 MarketVector数字资产100指数跌1.58%，报14826.82点。 目前，Solana涨0.33%，狗狗币涨0.84%，XRP暂时持平。 比特币跌1.12%，暂报75004.38美元，北京时间20:00出现一波显著的下跌行情、北京时间22:29刷新日低至74647.20美元；以太坊跌0.38%，暂报2062.24美元。",
+          "url": "https://wallstreetcn.com/livenews/3110198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "周三（5月27日）纽约尾盘，ICE美元指数涨0.02%，报99.193点，日内交投区间为98.969-99.260点。 彭博美元指数涨0.08%，报1202.20点，日内交投区间为1199.97-1203.03点。 美元兑日元涨0.14%，报159.53日元，日内交投区间为159.18-159.58日元，整体持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3110235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -537,23 +638,6 @@
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.00%，暂报2778.94点，整体处于低位窄幅震荡状态。 MarketVectorTM数字资产100中盘指数跌1.96%，报3006.62点。 MarketVector数字资产100指数跌1.58%，报14826.82点。 目前，Solana涨0.33%，狗狗币涨0.84%，XRP暂时持平。 比特币跌1.12%，暂报75004.38美元，北京时间20:00出现一波显著的下跌行情、北京时间22:29刷新日低至74647.20美元；以太坊跌0.38%，暂报2062.24美元。",
-          "url": "https://wallstreetcn.com/livenews/3110198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
