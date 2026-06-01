@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-01T12:51:27.654926+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-06-01T18:26:52.182367+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "据伊朗媒体FarsNews：伊朗伊斯兰革命卫队海军称，波斯湾和霍尔木兹海峡区域内的商船和油轮被警告，任何与敌对域外势力的合作行为都将被视为迫在眉睫的安全威胁，并将据此受到相应处置。",
+          "url": "https://flash.jin10.com/detail/20260601181437020800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
           "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
@@ -29,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗伊斯兰革命卫队海军称，过去24小时内，共有15艘船只在获得伊朗许可后通过霍尔木兹海峡，其中包括4艘油轮。",
+          "url": "https://flash.jin10.com/detail/20260601181326950800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "伊官员称伊朗不会对美退让妥协",
@@ -150,6 +183,17 @@
           "time_info": "[03时25分 ~ 05时07分]"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 18时26分]"
+        },
+        {
           "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
           "url": "https://flash.jin10.com/detail/20260601021328675800",
           "source": "金十数据",
@@ -180,7 +224,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -194,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
         },
         {
           "title": "伊官员称伊朗不会对美退让妥协",
@@ -290,7 +323,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -372,6 +405,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://wallstreetcn.com/livenews/3112326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美国财长贝森特：开启霍尔木兹海峡并夺取伊朗的核库存是目标之一。",
           "url": "https://flash.jin10.com/detail/20260531235718965800",
           "source": "金十数据",
@@ -394,6 +438,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "伊朗议会议长：美国违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3112320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美国财长贝森特：对伊朗的围攻以及对哈尔科夫石油出口的阻止仍在继续。",
           "url": "https://flash.jin10.com/detail/20260531235613251800",
           "source": "金十数据",
@@ -411,7 +466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -422,9 +477,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "伊朗外交部：伊朗武装部队回击美军“侵略行动”",
+          "url": "https://wallstreetcn.com/livenews/3112312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "沙特外交部：强烈谴责伊朗对科威特发动的罪恶性、一再重复的袭击行动。",
+          "url": "https://flash.jin10.com/detail/20260601174744388800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "高盛认为油价面临双向风险 需求下降与伊朗战争影响相互博弈",
@@ -433,7 +510,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -441,7 +518,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -456,6 +533,17 @@
           "time_info": "[01时15分 ~ 07时07分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
           "url": "https://wallstreetcn.com/livenews/3111962",
           "source": "华尔街见闻-快讯",
@@ -466,17 +554,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -534,7 +611,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -561,6 +638,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "美国关税退款悬了？特朗普政府突然上诉",
+          "url": "https://flash.jin10.com/detail/20260601174852729800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
           "url": "https://flash.jin10.com/detail/20260601044554841800",
           "source": "金十数据",
@@ -578,9 +666,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-01）",
+          "url": "https://flash.jin10.com/detail/20260601174717804800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
@@ -607,7 +706,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -618,7 +717,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -629,7 +728,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -640,7 +739,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -648,8 +747,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹”，可转向金银投资！",
+          "url": "https://www.cls.cn/detail/2386791",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
         {
           "title": "美股三大股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260601060027642800",
@@ -673,13 +783,24 @@
           "time_info": "01时15分"
         },
         {
+          "title": "高盛称对冲基金以六个月来的最快速度买入美股",
+          "url": "https://wallstreetcn.com/livenews/3112323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美股泡沫破裂时该交易什么",
           "url": "https://www.toutiao.com/trending/7645427088509796403/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -714,7 +835,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -731,7 +852,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
