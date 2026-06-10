@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T12:15:38.588030+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-06-10T16:54:31.799605+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 12时15分]"
+        },
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
         },
         {
           "title": "美军：对伊朗发起自卫打击 以回应此前直升机被击落",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
-        },
-        {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "伊朗媒体援引当地居民的话报道称，伊朗锡里克（Sirik）地区传出爆炸声，原因不明。",
@@ -127,20 +127,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
         {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://www.toutiao.com/trending/7649563798306557482/",
-          "source": "今日头条",
+          "title": "伊朗外交部发言人表示，美国持续违反停火协议，破坏了外交进程。",
+          "url": "https://wallstreetcn.com/livenews/3117352",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "16时54分"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -149,9 +149,44 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
+        },
+        {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
         },
         {
           "title": "伊朗外长阿拉格齐：想要安全，就离开我们所在的地区。波斯湾的历史上，关于外来入侵者的悲惨命运，篇章众多。",
@@ -163,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "德国航运公司赫伯罗特CEO：霍尔木兹海峡重新开放后，将重新思考长期服务海湾地区的运输方式，但很多做法会恢复到伊朗战争之前的状态。",
+          "url": "https://flash.jin10.com/detail/20260610163658402800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "据纽约时报，美国袭击伊朗军南部五个地方，袭击目标位军事基地和海军基地。 道指期货、标普股指期货跌0.3%，罗素2000股指期货跌0.4%。",
@@ -226,18 +272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -281,7 +316,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -314,18 +349,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2047951657120396654",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -339,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "德国经济研究所：受伊朗战争引发的能源价格冲击影响，德国今年面临技术性衰退的风险。",
+          "url": "https://flash.jin10.com/detail/20260610163049769800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统",
@@ -391,7 +426,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -402,9 +437,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "伊朗格什姆岛响起爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3117324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "美媒披露美伊核谈判四大议题：伊朗暂停铀浓缩15年、稀释现有浓缩铀、拆除核设施、接受“突击检查”",
@@ -479,9 +525,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国持续违反停火协议，损害外交进程。",
+          "url": "https://flash.jin10.com/detail/20260610162601481800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "伊朗外交部：德黑兰需要重新评估与美国的谈判",
+          "url": "https://flash.jin10.com/detail/20260610162536464800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "据Axios：美国官员称美军袭击了霍尔木兹海峡周边的数个伊朗防空系统和雷达系统。",
@@ -493,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "伊朗副外长表示，德黑兰不是霍尔木兹海峡上空针对美军“阿帕奇”直升机袭击事件的幕后主使。（半岛电视台）",
@@ -526,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社报道，格什姆岛附近发生爆炸，目前爆炸原因尚不清楚。",
+          "url": "https://wallstreetcn.com/livenews/3117315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
@@ -538,11 +628,36 @@
           "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 16时54分]"
+        },
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时21分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 16时54分]"
+        },
+        {
+          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -579,28 +694,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
-          "url": "https://www.cls.cn/detail/2395455",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
-          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
           "url": "https://www.cls.cn/detail/2395258",
           "source": "财联社热门",
@@ -625,24 +718,25 @@
           "time_info": "[03时20分 ~ 07时21分]"
         },
         {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
+        },
+        {
           "title": "美以伊冲突迷局：特朗普和内塔尼亚胡，究竟谁说了算？",
           "url": "https://flash.jin10.com/detail/20260610120250560800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -653,7 +747,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -664,7 +758,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -686,7 +780,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -752,7 +846,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -771,7 +865,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -867,6 +961,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
           "url": "https://flash.jin10.com/detail/20260610023402581800",
           "source": "金十数据",
@@ -876,6 +981,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美股芯片股盘前走低。美光科技跌近4%，迈威尔科技跌超3%，阿斯麦、英特尔跌超2%，英伟达跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3117347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
@@ -1051,9 +1178,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
         },
         {
           "title": "强非农后又迎热通胀？金价“至暗时刻”恐未完",
@@ -1062,7 +1201,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1076,17 +1215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "金价连续大跌",
-          "url": "https://www.douyin.com/hot/2529220",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "金价到“底”了吗",
