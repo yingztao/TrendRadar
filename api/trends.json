@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-10T16:54:31.799605+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-06-10T20:28:25.740717+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 20时28分]"
+        },
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
           "url": "https://www.zhihu.com/question/2047657469275641746",
@@ -20,17 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时20分 ~ 12时15分]"
-        },
-        {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时54分]"
         },
         {
           "title": "美军：对伊朗发起自卫打击 以回应此前直升机被击落",
@@ -138,7 +139,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -147,11 +148,36 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 20时28分]"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 20时28分]"
+        },
+        {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 20时28分]"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -166,27 +192,16 @@
           "time_info": "[12时15分 ~ 16时54分]"
         },
         {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
           "ranks": [
-            11
+            27,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时54分]"
-        },
-        {
-          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2047951657120396654",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时54分]"
+          "time_info": "[16时54分 ~ 20时28分]"
         },
         {
           "title": "伊朗外长阿拉格齐：想要安全，就离开我们所在的地区。波斯湾的历史上，关于外来入侵者的悲惨命运，篇章众多。",
@@ -206,7 +221,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -266,6 +281,28 @@
           "time_info": "07时21分"
         },
         {
+          "title": "中国代表强调安理会已终止审议伊朗核问题",
+          "url": "https://news.ifeng.com/c/8tq4zGV8tJN",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "美国与其他国家的联合声明中还提及了伊朗在北美的威胁。",
+          "url": "https://flash.jin10.com/detail/20260610200523643800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "伊朗袭击美军第五舰队",
           "url": "https://www.douyin.com/hot/2529144",
           "source": "抖音",
@@ -275,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "美国与其他国家发表联合声明，谴责伊朗伊斯兰革命卫队在欧洲的致命阴谋及其他恶意行动。",
+          "url": "https://flash.jin10.com/detail/20260610200504730800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "消息称伊朗无人机飞越伊拉克领空，对美目标发动袭击",
@@ -371,7 +419,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -385,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "泽连斯基：对全世界关注伊朗表示理解",
+          "url": "https://www.toutiao.com/trending/7648818599343718436/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "伊朗：以色列最新一轮袭击造成两名防控部队士兵丧生。",
@@ -448,9 +507,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "俄外交部：俄愿为通过谈判解决伊朗问题提供便利",
+          "url": "https://wallstreetcn.com/livenews/3117470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "美媒披露美伊核谈判四大议题：伊朗暂停铀浓缩15年、稀释现有浓缩铀、拆除核设施、接受“突击检查”",
@@ -462,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗公布击落美军MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "据纽约时报：美国认为伊朗将同意暂停铀浓缩活动15年。",
@@ -536,7 +617,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -547,7 +628,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -561,17 +642,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "伊朗击落美军“阿帕奇”直升机",
-          "url": "https://www.douyin.com/hot/2529103",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "伊朗副外长表示，德黑兰不是霍尔木兹海峡上空针对美军“阿帕奇”直升机袭击事件的幕后主使。（半岛电视台）",
@@ -613,7 +683,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
@@ -621,7 +691,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -683,6 +753,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普将继续施以最大压力以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260610201638518800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "伊朗议员：军方对美国总统特朗普的威胁保持全面警惕。（MEHR）",
           "url": "https://wallstreetcn.com/livenews/3116991",
           "source": "华尔街见闻-快讯",
@@ -692,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美伊谈判仍在继续，特朗普将继续施加最大压力以达成协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
@@ -726,8 +818,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 20时28分]"
         },
         {
           "title": "美以伊冲突迷局：特朗普和内塔尼亚胡，究竟谁说了算？",
@@ -739,6 +831,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "分析师：特朗普重新挑起打击伊朗可能性的时机“特别” 或是在为后续的数据铺路？",
+          "url": "https://flash.jin10.com/detail/20260610201418665800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
+          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
@@ -785,6 +910,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
           "url": "https://flash.jin10.com/detail/20260610021903833800",
           "source": "金十数据",
@@ -805,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普警告伊朗将为拖延“付出代价”，以色列或再次发动打击！",
+          "url": "https://flash.jin10.com/detail/20260610200142273800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要”",
@@ -829,6 +976,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美媒：特朗普称正接近下令对伊朗基础设施发动新的打击",
+          "url": "https://flash.jin10.com/detail/20260610200011332800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "特朗普称对伊朗进行打击“非常重要”",
           "url": "https://flash.jin10.com/detail/20260610055938102800",
           "source": "金十数据",
@@ -838,6 +996,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美媒：特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://wallstreetcn.com/livenews/3117466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "美国总统特朗普表示，他接近下令对伊朗电厂和桥梁进行新的打击。将继续对伊朗采取行动。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "特朗普训以总理对赖清德意味着什么",
@@ -860,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普：伊朗用了太长时间谈判 现在必须付出代价",
+          "url": "https://wallstreetcn.com/livenews/3117460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
@@ -950,6 +1141,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 20时28分]"
+        },
+        {
           "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
           "url": "https://wallstreetcn.com/livenews/3117028",
           "source": "华尔街见闻-快讯",
@@ -959,17 +1161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
@@ -989,7 +1180,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1000,7 +1191,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1095,6 +1286,90 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 16时54分]"
+        },
+        {
+          "title": "强非农后又迎热通胀？金价“至暗时刻”恐未完",
+          "url": "https://flash.jin10.com/detail/20260610115844041800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
+          "url": "https://wallstreetcn.com/livenews/3117058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "花旗预测金价或跌至3500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "金价到“底”了吗",
+          "url": "https://www.toutiao.com/trending/7649334259634671140/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -1168,68 +1443,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "国际油价金价大跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "金价连续大跌",
-          "url": "https://www.douyin.com/hot/2529220",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 16时54分]"
-        },
-        {
-          "title": "强非农后又迎热通胀？金价“至暗时刻”恐未完",
-          "url": "https://flash.jin10.com/detail/20260610115844041800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
-          "url": "https://wallstreetcn.com/livenews/3117058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "金价到“底”了吗",
-          "url": "https://www.toutiao.com/trending/7649334259634671140/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1245,6 +1458,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "早已提前看穿黄金暴跌剧本，3940目标价格不是梦！如何把握黄金送钱行情？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260610200601935800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
