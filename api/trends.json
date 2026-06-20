@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T08:15:46.795292+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-06-20T13:21:28.388813+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -21,18 +21,6 @@
           "time_info": "[00时34分 ~ 08时15分]"
         },
         {
-          "title": "特朗普：Anthropic曾构成国家安全威胁",
-          "url": "https://wallstreetcn.com/livenews/3122193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 08时15分]"
-        },
-        {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
           "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
           "source": "凤凰网",
@@ -40,8 +28,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
+          "url": "https://news.ifeng.com/c/8u5ipgperKS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -67,28 +80,6 @@
           "time_info": "03时01分"
         },
         {
-          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
-          "url": "https://wallstreetcn.com/livenews/3122195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
-          "url": "https://news.ifeng.com/c/8u5ipgperKS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
-        },
-        {
           "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
           "url": "https://flash.jin10.com/detail/20260620040748526800",
           "source": "金十数据",
@@ -110,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
-          "url": "https://wallstreetcn.com/livenews/3122194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -147,6 +127,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 08时15分]"
+        },
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "据AXIOS：美国总统特朗普表示，我们将能够控制以色列不攻击黎巴嫩。",
@@ -246,6 +237,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 08时15分]"
+        },
+        {
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时21分]"
         },
         {
           "title": "特朗普移动首款手机竟是中国制造",
@@ -494,6 +509,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "多国领导人劝和特朗普与高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "万斯警告以色列：只有特朗普同情你们",
           "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%83%85%E4%BD%A0%E4%BB%AC",
           "source": "百度热搜",
@@ -519,7 +556,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -530,8 +567,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -540,11 +577,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -574,11 +612,12 @@
           "url": "https://news.ifeng.com/c/8u5q1dToOV0",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时21分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -586,11 +625,34 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
+        },
+        {
+          "title": "美媒：伊朗外长将赴瑞士，美总统特使正在途中",
+          "url": "https://news.ifeng.com/c/8u6WrTf14JE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "海洋法管不着？伊朗称并非成员国 自己收费“合法合理”",
+          "url": "https://flash.jin10.com/detail/20260620130232500800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -612,7 +674,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -724,6 +786,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "伊朗称不信任美国 正在做两手准备",
+          "url": "https://wallstreetcn.com/livenews/3122212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
           "url": "https://flash.jin10.com/detail/20260619234334423800",
           "source": "金十数据",
@@ -733,6 +806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "伊朗外长向巴基斯坦外长表示，美国应对结束包括黎巴嫩在内的所有战线的战争以及任何违反谅解备忘录的行为负责。",
@@ -757,6 +841,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
+          "url": "https://wallstreetcn.com/livenews/3122203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "伊朗总统高级顾问：美国必须非常谨慎，以免和平协议沦为以色列固有恶意行为的牺牲品。",
+          "url": "https://flash.jin10.com/detail/20260620112802434800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队说“坚定支持国家领导层”",
           "url": "https://wallstreetcn.com/livenews/3122136",
           "source": "华尔街见闻-快讯",
@@ -766,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "伊朗：不信任美国 正在做两手准备",
+          "url": "https://flash.jin10.com/detail/20260620110937117800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "伊朗否认邀请国际原子能机构对其核设施进行检查",
@@ -779,6 +896,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美媒：伊朗外长将赴瑞士 美总统特使正在途中",
+          "url": "https://wallstreetcn.com/livenews/3122200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "本周已有11艘油轮运载2000万桶原油驶离伊朗港口",
           "url": "https://wallstreetcn.com/livenews/3122133",
           "source": "华尔街见闻-快讯",
@@ -788,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "伊朗官员：不会在黎巴嫩停火问题上退让",
+          "url": "https://wallstreetcn.com/livenews/3122198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "伊朗外交部副部长：60天后，我们将采用新的机制来管理霍尔木兹海峡，并向该地区国家提出特别倡议。",
@@ -810,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "市场消息：伊朗告知调停方，黎巴嫩停火对德黑兰而言是一个至关重要的问题。",
+          "url": "https://flash.jin10.com/detail/20260620100238653800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "伊朗外交部否认霍尔木兹海峡已关闭。（彭博）",
@@ -845,11 +995,25 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
+        },
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 13时21分]"
         },
         {
           "title": "金价陷入低迷",
@@ -863,18 +1027,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 08时15分]"
-        },
-        {
-          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
-          "url": "https://wallstreetcn.com/articles/3775075",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 08时15分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -903,8 +1055,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -955,11 +1107,24 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 13时21分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时21分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -972,17 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 03时01分]"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
         }
       ]
     },
@@ -1012,6 +1166,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 06时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3122199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
