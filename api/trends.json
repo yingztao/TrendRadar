@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:10:20.428811+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-06-30T17:51:19.020946+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -110,6 +110,17 @@
           "time_info": "[04时07分 ~ 06时14分]"
         },
         {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 17时51分]"
+        },
+        {
           "title": "特朗普“和粉丝吵翻了”",
           "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
           "source": "凤凰网",
@@ -149,7 +160,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -165,15 +176,15 @@
           "time_info": "04时07分"
         },
         {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "17时51分"
         },
         {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
@@ -185,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
@@ -333,7 +355,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -347,6 +369,18 @@
           "time_info": "[01时43分 ~ 08时12分]"
         },
         {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 17时51分]"
+        },
+        {
           "title": "伊朗：当前重点是执行谅解备忘录，近期不与美国谈判",
           "url": "https://flash.jin10.com/detail/20260630013530111800",
           "source": "金十数据",
@@ -358,15 +392,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "以色列防长：准备好独立打击伊朗",
-          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "title": "伊朗最高领袖穆杰塔巴，被以军列入“死亡名单”",
+          "url": "https://news.ifeng.com/c/8uNTWr0VDLQ",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时10分"
+          "time_info": "17时51分"
         },
         {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
@@ -415,6 +449,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 06时14分]"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "伊朗外交部发言人：美国官员访问卡塔尔与伊朗代表团访问多哈无关，未来几天不会与美国进行会谈。",
@@ -467,7 +512,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -489,7 +534,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -547,12 +592,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "伊朗代理防长：将“毫不犹豫”回应违反停火协议行为",
+          "url": "https://wallstreetcn.com/livenews/3126620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -694,6 +750,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美股出现罕见信号，“入熊”概率高达67%！",
+          "url": "https://www.cls.cn/detail/2412465",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3126312",
           "source": "华尔街见闻-快讯",
@@ -730,7 +797,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -745,6 +812,17 @@
           "time_info": "[01时43分 ~ 04时07分]"
         },
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
           "url": "https://www.cls.cn/detail/2412167",
           "source": "财联社热门",
@@ -757,6 +835,18 @@
           "time_info": "[08时11分 ~ 13时10分]"
         },
         {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 17时51分]"
+        },
+        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -767,17 +857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 04时07分]"
-        },
-        {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
         }
       ]
     },
@@ -834,8 +913,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时11分 ~ 17时51分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -878,7 +957,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
