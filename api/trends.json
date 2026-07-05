@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T18:22:45.720161+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-07-05T20:21:23.826454+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -36,11 +36,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 20时21分]"
         },
         {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
@@ -48,11 +49,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 20时21分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -77,17 +79,6 @@
           "time_info": "[01时13分 ~ 07时03分]"
         },
         {
-          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
-          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 18时22分]"
-        },
-        {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
           "url": "https://wallstreetcn.com/articles/3776207",
           "source": "华尔街见闻",
@@ -97,8 +88,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 20时21分]"
+        },
+        {
+          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
+          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 18时22分]"
         },
         {
           "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
@@ -123,6 +125,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
           "url": "https://flash.jin10.com/detail/20260705004719450800",
           "source": "金十数据",
@@ -132,6 +145,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时21分]"
+        },
+        {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 20时21分]"
         },
         {
           "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
@@ -158,18 +196,6 @@
           "time_info": "[05时05分 ~ 07时03分]"
         },
         {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 18时22分]"
-        },
-        {
           "title": "以色列消息人士：内塔尼亚胡与特朗普的会面尚未敲定相关安排。",
           "url": "https://flash.jin10.com/detail/20260705043308774800",
           "source": "金十数据",
@@ -192,6 +218,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 05时05分]"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 20时21分]"
         },
         {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
@@ -244,18 +283,6 @@
           "time_info": "[11时59分 ~ 18时22分]"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 18时22分]"
-        },
-        {
           "title": "普京与特朗普通话85分钟",
           "url": "https://www.toutiao.com/trending/7657794287316664371/",
           "source": "今日头条",
@@ -290,15 +317,15 @@
           "time_info": "07时03分"
         },
         {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普并没有要求以色列停止对真主党隧道的行动。",
+          "url": "https://flash.jin10.com/detail/20260705192324103800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "20时21分"
         },
         {
           "title": "克里姆林宫：普京在通话中邀请了特朗普访问俄罗斯。",
@@ -387,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-05）",
+          "url": "https://flash.jin10.com/detail/20260705184446232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京对特朗普提供了关于乌克兰冲突中战场局势的准确评估。",
@@ -549,7 +587,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -615,7 +653,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -623,7 +661,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
@@ -693,6 +731,28 @@
           "time_info": "[01时14分 ~ 15时35分]"
         },
         {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://flash.jin10.com/detail/20260705195906511800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
           "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
@@ -753,6 +813,18 @@
           "time_info": "[11时59分 ~ 18时22分]"
         },
         {
+          "title": "伊朗政府发言人：我们正在依法推进就前最高领袖遇刺案提起申诉的相关程序，目前已从证据收集阶段开始。",
+          "url": "https://flash.jin10.com/detail/20260705173727294800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时21分]"
+        },
+        {
           "title": "梅德韦杰夫：伊朗手握有两大底牌，不亚于核武器",
           "url": "https://news.ifeng.com/c/8uVfRfTDNZu",
           "source": "凤凰网",
@@ -764,6 +836,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "据半岛电视台：海事情报公司称伊朗革命卫队船只将六艘船只从阿曼航线转移。",
+          "url": "https://flash.jin10.com/detail/20260705191605772800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "也门副总理在德黑兰会见伊朗外长",
           "url": "https://flash.jin10.com/detail/20260705103710456800",
           "source": "金十数据",
@@ -773,17 +856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
-        },
-        {
-          "title": "伊朗政府发言人：我们正在依法推进就前最高领袖遇刺案提起申诉的相关程序，目前已从证据收集阶段开始。",
-          "url": "https://flash.jin10.com/detail/20260705173727294800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
@@ -830,6 +902,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
+          "url": "https://flash.jin10.com/detail/20260705184100307800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "伊朗民众泪别哈梅内伊",
           "url": "https://flash.jin10.com/detail/20260705000511705800",
           "source": "金十数据",
@@ -858,7 +941,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -954,11 +1037,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 20时21分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -989,7 +1073,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -1005,11 +1089,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 20时21分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -1046,7 +1131,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
