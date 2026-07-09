@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T19:10:40.025540+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-07-09T23:23:36.246982+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 74,
+      "match_count": 85,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -115,9 +115,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "以色列国防部长：已准备好对伊朗发动攻击以消除威胁。",
+          "url": "https://flash.jin10.com/detail/20260709230533107800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美伊紧张局势再度升温，伊朗紧急运出约1100万桶原油",
+          "url": "https://wallstreetcn.com/livenews/3131452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "万斯警告伊朗：若封锁霍尔木兹海峡将面临军事回应",
@@ -186,6 +208,19 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 23时23分]"
+        },
+        {
           "title": "美军时隔10天再袭伊朗",
           "url": "https://www.douyin.com/hot/2562712",
           "source": "抖音",
@@ -234,18 +269,6 @@
           "time_info": "[05时15分 ~ 07时14分]"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 19时10分]"
-        },
-        {
           "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
           "url": "https://www.zhihu.com/question/2058455554222027217",
           "source": "知乎",
@@ -267,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 07时14分]"
+        },
+        {
+          "title": "伊朗称发射导弹摧毁美军一指挥中心",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：消息人士称，美国对布什尔地区的袭击未对核电站造成任何损害。",
@@ -311,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "伊朗外交部与巴基斯坦陆军元帅通电话。",
+          "url": "https://wallstreetcn.com/livenews/3131446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "伊朗将大规模打击美军基地",
@@ -423,6 +468,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "伊朗外长阿拉格齐：伊朗有权自卫，以应对美国军队任何进一步的冒险行为。",
+          "url": "https://flash.jin10.com/detail/20260709224615300800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊媒：伊朗防御系统正在应对美军打击",
           "url": "https://flash.jin10.com/detail/20260709043219010800",
           "source": "金十数据",
@@ -432,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：两名伊朗渔民在周三美国对伊朗发动的袭击中丧生。",
@@ -478,13 +545,24 @@
           "time_info": "05时15分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我警告美国军队不要进行任何冒险行为，并强调伊朗民族和革命卫队捍卫国家主权、领土完整和国家安全的坚定决心。",
+          "url": "https://flash.jin10.com/detail/20260709224511467800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伊朗革命卫队指挥官：美以图谋在伊境内建立反政府组织",
           "url": "https://wallstreetcn.com/livenews/3131288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -522,6 +600,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "伊朗外长阿拉格齐：美国官员的言论已经承认了其不遵守该备忘录，这是美国背信弃义并延续好战政策的明显证据。",
+          "url": "https://flash.jin10.com/detail/20260709224453277800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：恰巴哈尔部分地区爆炸后出现停电。",
           "url": "https://flash.jin10.com/detail/20260709042756382800",
           "source": "金十数据",
@@ -542,6 +631,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国军队对伊朗多个地区发动侵略性攻击，这公然违反联合国宪章，也严重违背伊斯兰堡谅解备忘录（结束战争）条款。",
+          "url": "https://flash.jin10.com/detail/20260709224431188800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "沙特批评伊朗持续“威胁地区稳定”。",
+          "url": "https://wallstreetcn.com/livenews/3131434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "伊朗称将大规模打击美军基地",
@@ -627,7 +738,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -652,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "伊朗、阿曼、土耳其围绕霍尔木兹海峡问题开会。",
+          "url": "https://wallstreetcn.com/livenews/3131429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国中央司令部：美国将追究伊朗近期针对商业船只所采取的攻击行为的责任。",
@@ -682,7 +804,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -726,7 +848,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -759,7 +881,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -792,7 +914,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -803,7 +925,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -861,6 +983,19 @@
           "time_info": "[01时44分 ~ 11时50分]"
         },
         {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 23时23分]"
+        },
+        {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
           "url": "https://www.cls.cn/detail/2420505",
           "source": "财联社热门",
@@ -882,19 +1017,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 07时14分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 19时10分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -957,6 +1079,18 @@
           "time_info": "11时50分"
         },
         {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 23时23分]"
+        },
+        {
           "title": "美国总统特朗普：我确实与西班牙有过矛盾，现在仍然有。但今天西班牙非常慷慨，满足了许多付款要求。",
           "url": "https://flash.jin10.com/detail/20260709070145520800",
           "source": "金十数据",
@@ -1006,18 +1140,6 @@
           "time_info": "[01时44分 ~ 07时14分]"
         },
         {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 19时10分]"
-        },
-        {
           "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
@@ -1039,6 +1161,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 03时42分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 23时23分]"
         },
         {
           "title": "特朗普点名批评章家敦，释放一个明确信号",
@@ -1283,17 +1417,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "美国总统特朗普：我尚未决定是否从欧洲撤军。这在很大程度上取决于格陵兰岛和伊朗的情况。",
           "url": "https://flash.jin10.com/detail/20260709064738046800",
           "source": "金十数据",
@@ -1462,7 +1585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -1486,8 +1609,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 23时23分]"
         },
         {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
@@ -1512,6 +1635,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "华尔街的“甜蜜烦恼”：美股虽反弹，但“七巨头”正在掉队",
+          "url": "https://flash.jin10.com/detail/20260709230458887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
           "url": "https://www.cls.cn/detail/2420472",
           "source": "财联社热门",
@@ -1522,6 +1656,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 05时15分]"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
@@ -1604,7 +1760,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
@@ -1653,6 +1809,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "Altman不知是否今年IPO，称：OpenAI最新AI模型在智能体编程中Token效率提升54%",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
           "url": "https://flash.jin10.com/detail/20260709010430451800",
           "source": "金十数据",
@@ -1662,6 +1829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "OpenAI推出GPT-Live语音模型",
