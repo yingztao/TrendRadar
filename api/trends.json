@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T03:41:27.855180+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-11T05:11:33.275451+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 34,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -30,15 +30,48 @@
           "time_info": "01时02分"
         },
         {
+          "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
+          "url": "https://flash.jin10.com/detail/20260711043423870800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外交部：从未提出与美谈判诉求，同意调解方访伊",
+          "url": "https://wallstreetcn.com/livenews/3132250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
           "url": "https://flash.jin10.com/detail/20260711031010328800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊：伊朗不会允许对遭美国和以色列袭击受损的设施进行核查，《联合国安理会第2231号决议》实际上已失去法律效力。",
+          "url": "https://flash.jin10.com/detail/20260711043020224800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -58,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -71,19 +104,65 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
           "url": "https://wallstreetcn.com/livenews/3132222",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 05时11分]"
+        },
+        {
+          "title": "美国发布针对伊朗的新制裁措施",
+          "url": "https://wallstreetcn.com/livenews/3132218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 05时11分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
+          "url": "https://flash.jin10.com/detail/20260711042323084800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
+          "url": "https://flash.jin10.com/detail/20260711042255340800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。",
+          "url": "https://flash.jin10.com/detail/20260711042211223800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
@@ -92,20 +171,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
         {
-          "title": "美国发布针对伊朗的新制裁措施",
-          "url": "https://wallstreetcn.com/livenews/3132218",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人巴盖伊：阿拉格齐将访问阿曼，讨论并就建立保障船只安全通过霍尔木兹海峡的适当机制交换意见。",
+          "url": "https://flash.jin10.com/detail/20260711041744419800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外长将访阿曼 继续沟通霍尔木兹海峡状况",
+          "url": "https://flash.jin10.com/detail/20260711040952735800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊：美国多次违反相关谅解备忘录中的承诺，伊朗的政策仍基于“承诺换承诺”原则，任何来自华盛顿的违约行为都将遭到伊朗的对等回应。",
+          "url": "https://flash.jin10.com/detail/20260711040736938800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "05时11分"
         },
         {
           "title": "美国财长贝森特：伊朗最高领袖陷入孤立，将继续施压切断伊朗领导层与全球金融体系联系。",
@@ -114,9 +215,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗外交部发言人巴盖伊否认有关“伊朗请求与美国谈判”的说法，表示伊朗方面从未提出此类请求。",
+          "url": "https://flash.jin10.com/detail/20260711040717618800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "据伊朗媒体Fars News：知情人士否认有关伊朗与美国在伊斯兰堡举行谈判的筹备工作已完成的消息。",
@@ -136,7 +248,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -147,7 +259,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -169,9 +281,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "卫星图像曝光：伊朗或在重建多处核设施",
+          "url": "https://wallstreetcn.com/livenews/3132233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "伊朗西部一座炼油厂发生大火",
@@ -180,7 +303,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -191,7 +314,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -202,7 +325,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -213,9 +336,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗外长将访阿曼，继续沟通霍尔木兹海峡状况",
+          "url": "https://wallstreetcn.com/livenews/3132224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "据以色列i24News：卫星图像显示，林肯号和布什号航空母舰目前距离伊朗海岸非常近，已进入伊朗导弹的可能射程之内。",
@@ -235,15 +369,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗洛雷斯坦省工业园区公司安全负责人表示，埃克辛波尔多赫塔尔小型炼油厂发生的火灾已被控制。此次火灾仅波及装有废机油的油桶，并未蔓延至炼油厂设施和储油罐。",
+          "url": "https://flash.jin10.com/detail/20260711035149430800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -254,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -265,8 +410,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -276,8 +421,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3132248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3132246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -287,20 +467,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -310,8 +478,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -336,6 +504,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260711040603182800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "金十图示：2026年07月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260711040543415800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
           "url": "https://flash.jin10.com/detail/20260710234610274800",
           "source": "金十数据",
@@ -345,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅走高 SK海力士收涨近13%",
+          "url": "https://flash.jin10.com/detail/20260711040123431800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -371,8 +572,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -382,19 +583,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
           "url": "https://www.toutiao.com/trending/7660909473094962730/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
         },
         {
           "title": "特朗普宣布美伊“停火结束”后 美军称暂无行动变化",
@@ -422,7 +624,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
@@ -432,15 +634,59 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 05时11分]"
+        },
+        {
+          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
+          "url": "https://flash.jin10.com/detail/20260711044802586800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
+          "url": "https://wallstreetcn.com/livenews/3132249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
+          "url": "https://flash.jin10.com/detail/20260711042558788800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数10日上涨",
+          "url": "https://flash.jin10.com/detail/20260711035259724800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.93%，暂报2213.15点，上周五结束交易以来（7*24）累计下跌0.99%，7月4-7日大致交投于2240点附近，7月8-10日呈现出V形走势。 MarketVectorTM数字资产100中盘指数涨3.05%，报2616.89点，最近七天累涨1.56%。 MarketVector数字资产100指数涨2.09%，报12715.52点，最近七天累涨2.55%。 目前，Solana跌0.09%、最近七天迄今累跌5.74%，狗狗币涨1.60%、最近七天迄今累跌4.95%，XRP涨0.75%、最近七天迄今累跌3.15%。 比特币涨1.38%，暂报64086.93美元，最近七天迄今累涨2.06；以太坊涨2.63%，暂报1793.54美元，最近七天迄今累涨1.64%。",
           "url": "https://wallstreetcn.com/livenews/3132197",
@@ -448,7 +694,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         }
