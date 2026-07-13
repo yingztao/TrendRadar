@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T20:12:50.106237+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-07-13T23:45:34.510361+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 74,
+      "match_count": 84,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -41,6 +41,18 @@
           "time_info": "[01时05分 ~ 08时05分]"
         },
         {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
           "source": "澎湃新闻",
@@ -50,17 +62,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 07时01分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 20时12分]"
         },
         {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
@@ -116,6 +117,17 @@
           "time_info": "[01时05分 ~ 08时05分]"
         },
         {
+          "title": "英国拟将伊朗伊斯兰革命卫队列为“非法组织”",
+          "url": "https://wallstreetcn.com/livenews/3132999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗导弹打击中东美军目标 画面公布",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87+%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
@@ -137,9 +149,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "伊朗革命卫队：美国周一空袭伊朗致三名伊斯兰革命卫队成员丧生。",
+          "url": "https://flash.jin10.com/detail/20260713231825220800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
@@ -162,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "（美国针对伊朗潜在的）海上封锁的时间安排将于周一晚些时候公布。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3132998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗对位于科威特美军设施发动新一轮打击",
@@ -217,6 +251,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 23时45分]"
         },
         {
           "title": "加拿大就伊朗袭击事件表示“与海湾国家站在一起”",
@@ -328,19 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 20时12分]"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -560,6 +595,17 @@
           "time_info": "[07时01分 ~ 08时05分]"
         },
         {
+          "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
+          "url": "https://news.ifeng.com/c/8ujWVX3Tjrl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗外交部发言人：我们强调，绝不允许霍尔木兹海峡成为威胁伊朗国家安全的地方。与此同时，我们一直本着诚实和负责任的态度，致力于确保该航道的航运安全。",
           "url": "https://flash.jin10.com/detail/20260713160813965800",
           "source": "金十数据",
@@ -569,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "霍尔木兹海峡，伊朗不能承受之重",
+          "url": "https://news.ifeng.com/c/8uixCdUTtOq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗南部再次传出爆炸声。",
@@ -659,6 +716,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "三名伊斯兰革命卫队成员在周一美国袭击伊朗的行动中丧生。（伊朗媒体法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3132988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美国中央司令部：伊朗声称三名美军丧生的说法不实",
           "url": "https://flash.jin10.com/detail/20260713043105812800",
           "source": "金十数据",
@@ -668,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美国将恢复“针对伊朗的封锁”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "联合国驻黎巴嫩代表与伊朗外长会晤",
@@ -692,6 +771,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗安全官员：美国一再的挑衅行为，将导致伊朗行动范围的扩大。美国及其盟友必须服从我们的安排，请把此点牢记在心。",
+          "url": "https://flash.jin10.com/detail/20260713230155908800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
           "url": "https://flash.jin10.com/detail/20260713071349910800",
           "source": "金十数据",
@@ -709,7 +799,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -758,13 +848,24 @@
           "time_info": "12时35分"
         },
         {
+          "title": "美国中央司令部：美军首次在战斗中使用海上无人机。 上周日打击了位于伊朗的潜艇和舰船设施。",
+          "url": "https://wallstreetcn.com/livenews/3132975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗海峡管理局：通行恢复需要等待局势稳定",
           "url": "https://flash.jin10.com/detail/20260713195026382800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -789,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "美国中央司令部：昨日中央司令部部队使用多架单向攻击型水面无人机，成功打击了伊朗一处潜艇和舰艇维修设施。三艘“海盗”无人水面舰艇击中了阿巴斯港海军基地的港口，这是美军首次在作战行动中使用海上无人机。昨晚的打击削弱了伊朗持续袭击商业航运的能力。",
+          "url": "https://flash.jin10.com/detail/20260713224718942800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗称摧毁位于巴林的美军无人机指挥控制中心",
@@ -819,7 +931,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -841,7 +953,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -863,7 +975,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         }
@@ -871,7 +983,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -925,7 +1037,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -958,11 +1070,12 @@
           "url": "https://news.ifeng.com/c/8uj34x8QE0R",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 20时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 23时45分]"
         },
         {
           "title": "特朗普命令全国降半旗",
@@ -999,6 +1112,28 @@
           "time_info": "16时20分"
         },
         {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "特朗普宣布重新封锁伊朗，对霍尔木兹海峡货运收取20%“保护费”",
+          "url": "https://flash.jin10.com/detail/20260713230450277800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美伊博弈重启，特朗普将目光锁定油价！",
           "url": "https://flash.jin10.com/detail/20260713120241521800",
           "source": "金十数据",
@@ -1010,6 +1145,50 @@
           "time_info": "12时35分"
         },
         {
+          "title": "伊朗安全官员：特朗普忘了，霍尔木兹海峡在美国诞生之前数千年，就一直属于伊朗。",
+          "url": "https://flash.jin10.com/detail/20260713230128924800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "伊朗安全官员：特朗普所谓美国保护霍尔木兹海峡已有50年的说法，纯粹是一种幻觉。",
+          "url": "https://flash.jin10.com/detail/20260713230115556800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "伊朗安全官员：霍尔木兹海峡的管理权由我们的意志决定，而非你（特朗普）的帖子。",
+          "url": "https://flash.jin10.com/detail/20260713230053533800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
+          "url": "https://wallstreetcn.com/livenews/3132978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
@@ -1019,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普称美国将恢复“针对伊朗的封锁”",
+          "url": "https://wallstreetcn.com/livenews/3132969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊媒公布“复仇”名单，特朗普、内塔尼亚胡上榜",
@@ -1046,8 +1236,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -1090,7 +1291,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1104,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "美股半导体大跌！闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "摩根士丹利策略师预计美股上涨范围将扩大 受盈利增长等因素提振",
@@ -1155,6 +1367,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价俯冲谁还在逆势买金",
+          "url": "https://www.toutiao.com/trending/7661235977758982207/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     }
