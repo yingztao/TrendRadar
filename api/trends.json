@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T18:04:16.109901+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-07-17T20:14:33.703826+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 70,
       "titles": [
         {
           "title": "伊朗：造成大量美军人员死亡",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时04分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 20时14分]"
         },
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -37,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -48,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -152,6 +153,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "报道：美军袭击伊朗南部发电站和机场",
+          "url": "https://wallstreetcn.com/livenews/3135700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2428979",
           "source": "财联社热门",
@@ -163,6 +175,18 @@
           "time_info": "[12时11分 ~ 15时22分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时14分]"
+        },
+        {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
           "url": "https://www.cls.cn/detail/2428434",
           "source": "财联社热门",
@@ -172,17 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 04时05分]"
-        },
-        {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.toutiao.com/trending/7663410168377380371/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "伊朗称美军袭击其基础设施致8死20伤",
@@ -205,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "伊朗革命卫队：我们的有效精准打击将持续至局势恢复平静。",
+          "url": "https://flash.jin10.com/detail/20260717201021981800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "白宫新闻秘书Leavitt：伊朗继续与美国对话。 美方袭击伊朗，是因为伊朗违反了两国之间的谅解备忘录（MoU）。",
@@ -284,6 +308,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美军袭击摧毁了伊朗一座海上交通控制塔。（伊通社）",
+          "url": "https://wallstreetcn.com/livenews/3135691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "伊朗：美军事打击构成“战争罪”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%E6%9E%84%E6%88%90%E2%80%9C%E6%88%98%E4%BA%89%E7%BD%AA%E2%80%9D",
           "source": "百度热搜",
@@ -315,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "伊朗劳工部长：伊朗是世界和平的象征，伊朗不寻求战争，但将以全部力量对侵略者作出果断回应。",
+          "url": "https://flash.jin10.com/detail/20260717200316154800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
@@ -350,6 +396,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "伊朗劳工部长：阿联酋政府若真正寻求持久安全，就应将其领土从美以敌国的支配中解放出来。",
+          "url": "https://flash.jin10.com/detail/20260717200304805800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "美国周四袭击了伊朗境内多座桥梁。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3135319",
           "source": "华尔街见闻-快讯",
@@ -370,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗劳工部长：我们谴责阿联酋与美以侵略势力合作。",
+          "url": "https://flash.jin10.com/detail/20260717200249014800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "科威特称伊朗周四的袭击造成了损失。",
@@ -433,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -447,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "伊朗劳工部长：（提及阿联酋）不要将你们的领土置于伊朗敌人手中。",
+          "url": "https://flash.jin10.com/detail/20260717200236223800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "美军袭击伊朗阿巴斯港居民区，已致多人死伤",
@@ -636,6 +715,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "伊朗革命卫队打击卡塔尔美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "伊朗称多座桥梁遭美军袭击",
           "url": "https://flash.jin10.com/detail/20260717112535640800",
           "source": "金十数据",
@@ -694,7 +784,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -705,8 +795,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 20时14分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -728,8 +818,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时14分]"
         },
         {
           "title": "特朗普说别人都在笑话美国",
@@ -965,6 +1055,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "美国总统特朗普：昨晚我的演讲获得了很好的评价，观众人数众多。请通过《拯救美国法案》！",
+          "url": "https://flash.jin10.com/detail/20260717195445964800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "特朗普已在为“输掉中期选举”做准备？他的黄金时段讲话暴露了焦虑",
           "url": "https://flash.jin10.com/detail/20260717111924751800",
           "source": "金十数据",
@@ -1151,8 +1252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时02分 ~ 18时04分]"
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 20时14分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -1305,7 +1406,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -1340,6 +1441,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3135688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "逾30年的美债多头Hoisington因通胀和债务加剧转而看空",
+          "url": "https://wallstreetcn.com/livenews/3135325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3135247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "瑞银资产管理高管看空美债 认为德债是极佳的防御性配置选择",
+          "url": "https://wallstreetcn.com/livenews/3135669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     },
@@ -1417,34 +1568,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "逾30年的美债多头Hoisington因通胀和债务加剧转而看空",
-          "url": "https://wallstreetcn.com/livenews/3135325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美债收益率普遍涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3135247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1454,11 +1577,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 18时04分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 20时14分]"
         }
       ]
     }
