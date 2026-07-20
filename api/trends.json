@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T11:39:41.428481+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-07-20T14:53:32.254511+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -37,11 +37,12 @@
           "ranks": [
             13,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 11时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 14时53分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -56,6 +57,28 @@
           "time_info": "[01时04分 ~ 07时05分]"
         },
         {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时53分]"
+        },
+        {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时53分]"
+        },
+        {
           "title": "伊朗让美军付出重大代价",
           "url": "https://news.ifeng.com/c/8usdq92gz1I",
           "source": "凤凰网",
@@ -67,26 +90,26 @@
           "time_info": "01时04分"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
-          "source": "凤凰网",
+          "title": "据半岛电视台：巴基斯坦内政部消息人士表示，伊朗内政部长今天抵达巴基斯坦首都伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260720144244831800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "14时53分"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "14时53分"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -95,9 +118,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
+          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时53分]"
         },
         {
           "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
@@ -293,6 +328,18 @@
           "time_info": "[01时04分 ~ 03时14分]"
         },
         {
+          "title": "伊朗称打死数十名美军人员",
+          "url": "https://www.toutiao.com/trending/7664426833449848347/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时53分]"
+        },
+        {
           "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260720011531221800",
           "source": "金十数据",
@@ -365,17 +412,6 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
-          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
-          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
           "url": "https://flash.jin10.com/detail/20260720045743667800",
           "source": "金十数据",
@@ -398,6 +434,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美国两次空袭击中伊朗布什尔。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3136637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国官员：美国计划升级对伊朗的战争 但可能受到多重制约",
           "url": "https://flash.jin10.com/detail/20260720045309711800",
           "source": "金十数据",
@@ -409,15 +456,15 @@
           "time_info": "06时02分"
         },
         {
-          "title": "伊朗称打死数十名美军人员",
-          "url": "https://www.toutiao.com/trending/7664426833449848347/",
-          "source": "今日头条",
+          "title": "伊朗布什尔市遭美军袭击",
+          "url": "https://wallstreetcn.com/livenews/3136633",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "14时53分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
@@ -437,7 +484,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -464,6 +511,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "据伊朗劳工通讯社：伊斯法罕传出的爆炸声与针对未爆弹药的受控爆破作业有关。",
+          "url": "https://flash.jin10.com/detail/20260720142807277800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗方面称，数小时前一枚美国发射的巡航导弹在伊朗西部地区遭防空系统成功拦截和击中，导弹已被摧毁。",
           "url": "https://flash.jin10.com/detail/20260720005741846800",
           "source": "金十数据",
@@ -481,9 +539,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "据半岛电视台：伊朗布什尔省长表示，遭袭的范围和程度目前正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260720142222616800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
@@ -503,7 +572,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -547,7 +616,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -563,15 +632,37 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔地区遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260720141806764800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "伊朗称袭击约旦境内美军藏身地并打死数十名美军人员",
           "url": "https://wallstreetcn.com/livenews/3136484",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "美军称继续执行针对伊朗海上封锁任务",
+          "url": "https://www.toutiao.com/trending/7663549304636669993/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国：结束周末对伊朗的一波空袭。",
@@ -580,7 +671,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -599,7 +690,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -644,9 +735,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时53分]"
         },
         {
           "title": "FIFA将大力神杯送入特朗普包厢",
@@ -799,6 +890,28 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普称新空军一号将升级改造",
+          "url": "https://wallstreetcn.com/livenews/3136636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
           "url": "https://flash.jin10.com/detail/20260720064454811800",
           "source": "金十数据",
@@ -824,7 +937,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -849,6 +962,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 06时02分]"
+        },
+        {
+          "title": "中信建投：Kimi K3模型达全球Tier1，国产模型再现DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3136627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "DeepSeekV4能超越KimiK3吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E8%83%BD%E8%B6%85%E8%B6%8AKimiK3%E5%90%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
@@ -874,15 +1009,15 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 14时53分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -896,6 +1031,45 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时05分]"
+        },
+        {
+          "title": "OpenAI称Kimi开源是减速主义",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "高盛：美股指数看似平静，个股和债市已提前起风？",
+          "url": "https://flash.jin10.com/detail/20260720141241061800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     }
