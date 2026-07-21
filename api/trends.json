@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T05:16:53.985083+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-07-22T07:03:25.442234+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
         },
         {
           "title": "伊朗还有两大杀手锏",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
         },
         {
           "title": "美国众议院议长约翰逊：必须结束伊朗战争。",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -84,6 +84,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 05时16分]"
+        },
+        {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         },
         {
           "title": "新任英国首相伯纳姆批准美国使用英国基地对伊朗进行部分打击。",
@@ -125,7 +137,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -147,7 +159,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -224,7 +236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -246,7 +258,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -262,21 +274,43 @@
           "time_info": "03时39分"
         },
         {
-          "title": "伊朗海军同时从3个方向猛烈打击美军",
-          "url": "https://www.toutiao.com/trending/7663674772672512009/",
-          "source": "今日头条",
+          "title": "科威特军方表示，空中防御系统目前正在拦截伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260722054058903800",
+          "source": "金十数据",
           "ranks": [
-            28
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
+          "url": "https://flash.jin10.com/detail/20260722052653164800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
+          "url": "https://wallstreetcn.com/livenews/3137757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -285,9 +319,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：仿制药进入美国关税为零，所有仿制药继续享受零关税。 两年后对仿制药征收100%关税，再之后将提高至200%。 关税税率自2026年8月1日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3137789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
+          "url": "https://flash.jin10.com/detail/20260722064418802800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "特朗普称很快重击伊朗镐山核设施",
@@ -299,6 +355,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
+          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            8,
+            14,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
         },
         {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
@@ -313,30 +394,6 @@
           "time_info": "[03时39分 ~ 05时16分]"
         },
         {
-          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
-          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
-        },
-        {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            8,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
-        },
-        {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
           "url": "https://wallstreetcn.com/articles/3777496",
           "source": "华尔街见闻",
@@ -348,6 +405,61 @@
           "time_info": "[01时26分 ~ 03时39分]"
         },
         {
+          "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
+          "url": "https://flash.jin10.com/detail/20260722063924180800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3137781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722062026177800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
+          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "特朗普会见黎巴嫩总统奥恩",
           "url": "https://flash.jin10.com/detail/20260722003143324800",
           "source": "金十数据",
@@ -357,6 +469,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
+          "url": "https://wallstreetcn.com/livenews/3137772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
+          "url": "https://flash.jin10.com/detail/20260722055028115800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
+          "url": "https://wallstreetcn.com/livenews/3137768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
+          "url": "https://wallstreetcn.com/livenews/3137767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -406,8 +562,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
+        },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
@@ -421,26 +588,27 @@
           "time_info": "[01时26分 ~ 05时16分]"
         },
         {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
-        },
-        {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
           "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
@@ -454,13 +622,24 @@
           "time_info": "[01时26分 ~ 01时27分]"
         },
         {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
           "url": "https://wallstreetcn.com/livenews/3137752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -471,7 +650,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -482,7 +661,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -493,7 +672,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -504,7 +683,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -533,8 +712,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
         },
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
@@ -554,7 +733,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -565,7 +744,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -587,7 +766,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -609,7 +788,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -631,6 +810,18 @@
           "time_info": "[01时26分 ~ 05时16分]"
         },
         {
+          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
+          "url": "https://www.zhihu.com/question/2063033606767895735",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
+        },
+        {
           "title": "谷歌发布一系列更低成本的Gemini模型",
           "url": "https://flash.jin10.com/detail/20260722004534436800",
           "source": "金十数据",
@@ -640,17 +831,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
-          "url": "https://www.zhihu.com/question/2063033606767895735",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "谷歌(GOOG.O)：自7月21日起，使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。",
@@ -696,11 +876,12 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时03分]"
         }
       ]
     },
@@ -713,11 +894,12 @@
           "url": "https://wallstreetcn.com/livenews/3137759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时03分]"
         }
       ]
     },
