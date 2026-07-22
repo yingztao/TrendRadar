@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T14:35:17.508758+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-07-22T17:31:59.468931+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -69,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "约旦军方称伊朗向该国发射了6枚导弹",
+          "url": "https://wallstreetcn.com/livenews/3138112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "伊朗打击科威特境内Ali Al Salem基地和Bubiyan岛。（IRIB）",
@@ -181,7 +192,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -203,7 +214,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -225,7 +236,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -252,6 +263,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "据以色列i24News：在伊朗局势持续升级、以色列是否将加入美国打击行动这一紧迫问题悬而未决之际，以色列安全内阁将于周日召开会议进行讨论。以色列总理内塔尼亚胡仍在考虑下周是否前往华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260722171010497800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "伊朗称已部署新防空系统。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3137713",
           "source": "华尔街见闻-快讯",
@@ -269,9 +291,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "伊朗陆军总司令警告：任何对伊领土侵犯将遭遇全民抵抗",
+          "url": "https://flash.jin10.com/detail/20260722170710957800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗布什尔省一名官员称，今天早晨该省因美国袭击发生了两次爆炸。",
@@ -280,7 +313,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -313,7 +346,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -406,6 +439,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "如果美国踏上伊朗的陆地，伊朗将全力反击。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3138079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "伊朗导弹突防能力提升 美军防空系统面临考验",
           "url": "https://flash.jin10.com/detail/20260722021112133800",
           "source": "金十数据",
@@ -434,7 +478,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -461,6 +505,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗称目前没有与美国进行任何磋商。伊朗称与美国“信息交流”是可能的。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
           "url": "https://wallstreetcn.com/livenews/3137757",
           "source": "华尔街见闻-快讯",
@@ -475,7 +530,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普宣布两年后对仿制药征100%关税",
@@ -500,6 +555,17 @@
           "time_info": "[11时17分 ~ 11时18分]"
         },
         {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
           "url": "https://flash.jin10.com/detail/20260722044021391800",
           "source": "金十数据",
@@ -522,6 +588,19 @@
           "time_info": "07时03分"
         },
         {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
           "url": "https://flash.jin10.com/detail/20260722064418802800",
           "source": "金十数据",
@@ -533,25 +612,13 @@
           "time_info": "07时03分"
         },
         {
-          "title": "胡塞武装封锁红海？特朗普回应",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普承认美方干预中国事务，并称“中国今时不同往日”",
           "url": "https://news.ifeng.com/c/8uy1V150ZKO",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -639,6 +706,18 @@
           "time_info": "[01时26分 ~ 03时39分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
           "url": "https://news.ifeng.com/c/8uxX85JoJZj",
           "source": "凤凰网",
@@ -648,17 +727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 11时18分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
@@ -681,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -755,7 +834,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -791,6 +870,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "据福克斯新闻：美国贸易代表格里尔将于当地时间今日在参议院小组委员会就特朗普的贸易和关税政策作证。",
+          "url": "https://flash.jin10.com/detail/20260722165855515800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "特朗普频繁现身美国体育大赛引争议",
+          "url": "https://www.toutiao.com/trending/7664524485127684159/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
@@ -829,7 +930,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -855,6 +956,17 @@
           "time_info": "[01时26分 ~ 11时18分]"
         },
         {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 17时31分]"
+        },
+        {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -865,17 +977,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 05时16分]"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时35分]"
         },
         {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
@@ -925,6 +1026,29 @@
           "time_info": "[11时17分 ~ 14时35分]"
         },
         {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时31分]"
+        },
+        {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
           "source": "百度热搜",
@@ -934,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时27分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -1013,6 +1126,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。 超微电脑涨约17%，公司超预计第四财季营收接近指引区间110亿-125亿美元的底部；预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "欧洲STOXX 600指数收涨0.56%，报643.19点，欧股盘初、美股盘初均短暂转跌。 欧元区STOXX 50指数收涨0.94%，报6285.63点，跳空高开之后呈现出W形涨势。 富时泛欧绩优300指数收涨0.64%，报2572.31点。",
           "url": "https://wallstreetcn.com/livenews/3137672",
           "source": "华尔街见闻-快讯",
@@ -1022,12 +1146,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3138075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -1043,17 +1178,6 @@
           "time_info": "[01时26分 ~ 14时35分]"
         },
         {
-          "title": "OpenAI安全测试越界：智能体突破隔离并入侵开源AI平台",
-          "url": "https://flash.jin10.com/detail/20260722142820467800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
           "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
@@ -1062,8 +1186,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 17时31分]"
+        },
+        {
+          "title": "OpenAI安全测试越界：智能体突破隔离并入侵开源AI平台",
+          "url": "https://flash.jin10.com/detail/20260722142820467800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "宇树科技王兴兴：具身智能的“ChatGPT时刻”有望最快在两三年内到来",
@@ -1072,7 +1207,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1099,6 +1234,28 @@
           "time_info": "05时16分"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
           "url": "https://flash.jin10.com/detail/20260722043419801800",
           "source": "金十数据",
@@ -1116,7 +1273,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1212,7 +1369,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1234,7 +1391,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1284,7 +1441,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1307,7 +1464,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
