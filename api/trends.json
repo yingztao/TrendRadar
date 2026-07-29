@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-07-30T01:21:01.146114+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T03:26:04.236968+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
+        },
+        {
+          "title": "美联储主席沃什：本次政策会议上并没有感受到（来自特朗普政府的政治）掣肘。",
+          "url": "https://wallstreetcn.com/livenews/3141860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -37,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -48,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -59,19 +72,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -85,13 +99,35 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于杜勒斯机场）下令添置新设备和控制塔。",
+          "url": "https://flash.jin10.com/detail/20260730030725017800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
           "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
           "url": "https://wallstreetcn.com/livenews/3141781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -109,8 +145,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -120,19 +156,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2440482",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
@@ -141,7 +178,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -152,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -163,7 +200,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -174,7 +211,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -182,8 +219,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "【美沙空袭伊拉克致4名伊朗革命卫队成员身亡】总台记者当地时间29日获悉，伊朗中央省副省长表示，美国和沙特当天凌晨对伊拉克迪亚拉省发动联合空袭，造成四名伊朗伊斯兰革命卫队成员死亡。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3141862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
         {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
           "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
@@ -192,8 +240,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -203,8 +251,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
@@ -218,13 +266,24 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
+          "title": "美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
+          "url": "https://flash.jin10.com/detail/20260730030356938800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
           "url": "https://wallstreetcn.com/livenews/3141795",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -241,7 +300,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -252,7 +311,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -263,7 +322,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -280,7 +339,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -291,7 +350,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -302,9 +361,43 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价剧震 哪些资本买家在持续入场",
+          "url": "https://www.toutiao.com/trending/7667884851736215562/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储主席沃什：名义美债收益率、实际美债收益率涨势都非常突出。 我们正关注收益率上涨问题，正设法不受其影响。 债券市场似乎认为，美国经济强劲、稳步发展。 市场更加直接地对诸多事件做出反应。 即便我们没有采取太多行动，市场也已经出现相当的波动。",
+          "url": "https://wallstreetcn.com/livenews/3141839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     }
