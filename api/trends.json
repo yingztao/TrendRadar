@@ -1,11 +1,407 @@
 {
-  "generated_at": "2026-08-03T07:05:00.912303+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-08-03T11:31:58.322320+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
+          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时05分]"
+        },
+        {
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时05分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "金十整理：特朗普八次叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803044202027800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
+          "url": "https://flash.jin10.com/detail/20260803064716887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普：已决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
+          "url": "https://wallstreetcn.com/livenews/3143717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 07时05分]"
+        },
+        {
+          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
+          "url": "https://flash.jin10.com/detail/20260803015627779800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时01分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
+          "url": "https://flash.jin10.com/detail/20260803014329998800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时01分]"
+        },
+        {
+          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
+          "url": "https://wallstreetcn.com/livenews/3143739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时05分]"
+        },
+        {
+          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
+          "url": "https://flash.jin10.com/detail/20260803013751190800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时13分]"
+        },
+        {
+          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
+          "url": "https://flash.jin10.com/detail/20260803013114997800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时13分]"
+        },
+        {
+          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
+          "url": "https://flash.jin10.com/detail/20260803012453800800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
+          "url": "https://wallstreetcn.com/livenews/3143688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 02时03分]"
+        },
+        {
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803040451593800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20260803061251267800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3143741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普称，美国干预日元汇率是两国友谊的信号。",
+          "url": "https://wallstreetcn.com/livenews/3143743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
+          "url": "https://flash.jin10.com/detail/20260803061218681800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普称美伊3日将举行谈判",
+          "url": "https://wallstreetcn.com/livenews/3143742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
+          "url": "https://flash.jin10.com/detail/20260803061041484800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
+          "url": "https://flash.jin10.com/detail/20260803061040162800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普称美伊3日将举行谈判",
+          "url": "https://flash.jin10.com/detail/20260803055834448800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普再度TACO，宣布美伊谈判即将重启，现货黄金多头占比飙升至85%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260803104538415800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普拒绝为美伊达成协议设定最后期限",
+          "url": "https://wallstreetcn.com/livenews/3143835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
+          "url": "https://flash.jin10.com/detail/20260803055502014800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及英特尔）我为国家赚了750亿美元。我不是为自己赚的，是为国家赚的。",
+          "url": "https://flash.jin10.com/detail/20260803055411307800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
+          "url": "https://flash.jin10.com/detail/20260803054815233800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
+          "url": "https://flash.jin10.com/detail/20260803054649195800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -17,6 +413,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 07时05分]"
+        },
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
@@ -215,6 +622,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
           "url": "https://flash.jin10.com/detail/20260803010226366800",
           "source": "金十数据",
@@ -382,335 +800,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
-          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "金十整理：特朗普八次叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803044202027800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
-          "url": "https://flash.jin10.com/detail/20260803064716887800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
-          "url": "https://wallstreetcn.com/livenews/3143717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 07时05分]"
-        },
-        {
-          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
-          "url": "https://flash.jin10.com/detail/20260803015627779800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时01分]"
-        },
-        {
-          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
-          "url": "https://flash.jin10.com/detail/20260803014329998800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时01分]"
-        },
-        {
-          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
-          "url": "https://wallstreetcn.com/livenews/3143739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时05分]"
-        },
-        {
-          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
-          "url": "https://flash.jin10.com/detail/20260803013751190800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时13分]"
-        },
-        {
-          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
-          "url": "https://flash.jin10.com/detail/20260803013114997800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时13分]"
-        },
-        {
-          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
-          "url": "https://flash.jin10.com/detail/20260803012453800800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时13分]"
-        },
-        {
-          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
-          "url": "https://wallstreetcn.com/livenews/3143688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时03分]"
-        },
-        {
-          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803040451593800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260803061251267800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "特朗普称，美国干预日元汇率是两国友谊的信号。",
-          "url": "https://wallstreetcn.com/livenews/3143743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
-          "url": "https://flash.jin10.com/detail/20260803061218681800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://wallstreetcn.com/livenews/3143742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803061041484800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
-          "url": "https://flash.jin10.com/detail/20260803061040162800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://flash.jin10.com/detail/20260803055834448800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
-          "url": "https://flash.jin10.com/detail/20260803055502014800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及英特尔）我为国家赚了750亿美元。我不是为自己赚的，是为国家赚的。",
-          "url": "https://flash.jin10.com/detail/20260803055411307800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
-          "url": "https://flash.jin10.com/detail/20260803054815233800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
-          "url": "https://flash.jin10.com/detail/20260803054649195800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -734,11 +823,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 11时31分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -757,7 +847,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -765,11 +855,23 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 11时31分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
