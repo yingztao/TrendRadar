@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T11:14:12.542530+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-08-04T14:33:04.329854+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 14时33分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -28,19 +28,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
           "url": "https://www.cls.cn/detail/2444694",
           "source": "财联社热门",
           "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
+        },
+        {
+          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
+          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
+          "source": "凤凰网",
+          "ranks": [
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -48,17 +61,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
-          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -113,22 +115,46 @@
           "url": "https://www.cls.cn/detail/2444679",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
           "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "法庭文件显示：美国25个州提起诉讼，挑战特朗普最新关税政策。 纽约州总检察长称，特朗普新关税覆盖面宽泛程度超出法律允许范围，规避了法律规定的针对特定国家开展调查的要求。特朗普最新关税仅仅是替换此前被美国最高法院裁定无效的关税。",
@@ -341,6 +367,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "民调显示特朗普支持率跌至35%",
+          "url": "https://wallstreetcn.com/livenews/3144522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "美国总统特朗普：石油公司最好降低零售价格。 石油企业赚得盆满钵满，我不乐见此事。 雪佛龙、埃克森美孚赚得太多了。",
           "url": "https://wallstreetcn.com/livenews/3144307",
           "source": "华尔街见闻-快讯",
@@ -377,7 +414,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -414,6 +451,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "佩泽希齐扬：伊朗将捍卫领土但不寻求继续或扩大战争",
+          "url": "https://flash.jin10.com/detail/20260804141523749800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们没有攻击任何美国公民，但美国攻击了我们的国家。世界绝大多数国家都会说，美国是一个好战国家。",
           "url": "https://flash.jin10.com/detail/20260804031059283800",
           "source": "金十数据",
@@ -446,6 +494,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时10分 ~ 07时09分]"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.toutiao.com/trending/7668954284482134058/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "【伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线】伊朗最高领袖军事顾问穆赫辛·雷扎伊在接受媒体采访时表示，伊朗决不允许美国在霍尔木兹海峡开辟任何非伊朗的航线，即使美国在霍尔木兹海峡的非法航线上部署军舰，伊朗也会将其作为目标。雷扎伊还表示，伊朗此前已准备好攻击乌克兰的三个地点，但是由于乌克兰道歉，伊朗取消了攻击。（央视）",
@@ -560,6 +619,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "美伊官员称伊朗与阿曼接近达成霍尔木兹海峡航行协议",
+          "url": "https://wallstreetcn.com/livenews/3144551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "报道：美国和伊朗没有新的谈判计划",
           "url": "https://wallstreetcn.com/livenews/3144275",
           "source": "华尔街见闻-快讯",
@@ -670,6 +740,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "伊朗总统称无意扩大冲突",
+          "url": "https://flash.jin10.com/detail/20260804140652736800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "伊朗革命卫队称具备全面情报掌控力",
           "url": "https://wallstreetcn.com/livenews/3144255",
           "source": "华尔街见闻-快讯",
@@ -684,7 +765,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -718,8 +799,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -729,8 +810,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
@@ -741,8 +822,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 11时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 14时33分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
@@ -827,6 +908,17 @@
           "time_info": "[05时11分 ~ 07时09分]"
         },
         {
+          "title": "美股为何跌不下去？“大空头”找到了背后的机器丨大空头手记",
+          "url": "https://flash.jin10.com/detail/20260804141314341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
           "url": "https://wallstreetcn.com/livenews/3144353",
           "source": "华尔街见闻-快讯",
@@ -888,7 +980,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -918,8 +1010,22 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时45分 ~ 14时33分]"
+        },
         {
           "title": "DeepSeek 斩杀线",
           "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
@@ -953,19 +1059,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时09分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时45分 ~ 11时14分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -1009,6 +1102,28 @@
           "time_info": "[01时12分 ~ 07时09分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "DeepSeek斩杀线",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -1018,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
+          "title": "DeepSeek API出现性能下降情况，现已恢复",
+          "url": "https://wallstreetcn.com/livenews/3144548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "华为半导体首席科学家大赞梁文锋",
@@ -1043,11 +1169,12 @@
           "ranks": [
             8,
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 14时33分]"
         },
         {
           "title": "英国数据监管机构ICO：（就OpenAI和Anthropic）我们已注意到近期影响该行业的黑客事件，并正在密切监控事态发展。",
@@ -1187,6 +1314,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
+          "url": "https://wallstreetcn.com/livenews/3144528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
