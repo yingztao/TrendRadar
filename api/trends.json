@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:04:20.544741+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-08-08T15:02:45.760558+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时48分 ~ 13时04分]"
+          "appearance_count": 9,
+          "time_info": "[04时48分 ~ 15时02分]"
         },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -30,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 15时02分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,6 +44,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 15时02分]"
         },
         {
           "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
@@ -100,16 +113,16 @@
           "time_info": "01时53分"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
           "ranks": [
-            11,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 13时04分]"
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 15时02分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -355,7 +357,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -363,7 +365,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -396,8 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 15时02分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：尽管美国和以色列政权通过阴谋以及最近的战争，试图在伊朗与波斯湾沿岸国家之间制造分歧，但我们已经解决了与许多邻国之间的诸多问题。",
@@ -409,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
@@ -434,6 +447,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            21,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 15时02分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：我们不会屈服于强权，但也不寻求战争和侵略。",
@@ -500,20 +528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗官员称防务协议无法保障沙特安全",
-          "url": "https://wallstreetcn.com/livenews/3146940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时39分 ~ 13时04分]"
         },
         {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
@@ -661,6 +675,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "以媒称伊朗最高领袖被紧急送医",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A2%AB%E7%B4%A7%E6%80%A5%E9%80%81%E5%8C%BB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
           "url": "https://wallstreetcn.com/livenews/3146793",
           "source": "华尔街见闻-快讯",
@@ -710,8 +735,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 13时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 15时02分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -734,6 +759,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 05时45分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时42分 ~ 15时02分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -762,6 +800,19 @@
           "time_info": "[00时03分 ~ 07时39分]"
         },
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 15时02分]"
+        },
+        {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
@@ -771,30 +822,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 03时17分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时42分 ~ 13时04分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 13时04分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -890,17 +917,6 @@
           "time_info": "[00时03分 ~ 07时39分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时39分]"
-        },
-        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -912,8 +928,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时48分 ~ 13时04分]"
+          "appearance_count": 9,
+          "time_info": "[04时48分 ~ 15时02分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时39分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -924,8 +951,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 15时02分]"
         },
         {
           "title": "梁文锋为何重仓宇树科技",
@@ -934,7 +961,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
@@ -1008,11 +1035,12 @@
             19,
             17,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 13时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 15时02分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1039,11 +1067,12 @@
             1,
             11,
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时39分 ~ 13时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 15时02分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -1055,6 +1084,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
